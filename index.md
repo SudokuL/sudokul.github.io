@@ -58,7 +58,7 @@ layout: homepage
 
 ## 项目 Projects
 
-[原创设计深圳北理莫斯科大学学生会Logo](https://mp.weixin.qq.com/s/UUB207kcCMzUx-u4nrESOg)
+原创设计[深圳北理莫斯科大学学生会Logo](https://mp.weixin.qq.com/s/UUB207kcCMzUx-u4nrESOg)
 
 **Original Logo Designer for the Student Union of Shenzhen MSU-BIT University**
 {% include_relative _includes/publications.md %}
