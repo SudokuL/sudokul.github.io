@@ -23,10 +23,10 @@ layout: homepage
 
 **Currently studying under [Dr. Runhao Zeng](https://ai.smbu.edu.cn/info/1251/1881.htm), Shenzhen MSU-BIT University**
 
-## 论文 **Publications**
+## 论文 Publications
 
 - **SM-CBNet: A Speech-Based Parkinson’s Disease Diagnosis Model with SMOTE–ENN and CNN+BiLSTM Integration** (ICIC, CCF-C, Oral) 2025
-    - X. Wang, W. Pan, R. Liu, K. Jin and Z. Tian
+  X. Wang, W. Pan, **R. Liu**, K. Jin and Z. Tian
 
 ## 奖项 Honors
 
@@ -34,7 +34,7 @@ layout: homepage
     
     **Second Prize in Guangdong Province and Third Prize Nationally in the Global Campus AI Algorithm Elite Competition – Algorithm Track**
     
-- 蓝桥杯电子赛个人赛Python广东省赛省二等奖
+- 蓝桥杯软件赛个人赛Python广东省赛省二等奖
     
     [**Provincial Second Prize** in the Blue Bridge Cup Python Competition (Individual)](https://dasai.lanqiao.cn/)
     
@@ -47,7 +47,7 @@ layout: homepage
     **CET-4 Certificate (College English Test, Band 4)**
     
 
-## 社团活动 **Extracurricular Activities**
+## 社团活动 Extracurricular Activities
 
 - 深圳北理莫斯科大学新媒体中心设计部部长
     
@@ -58,11 +58,9 @@ layout: homepage
     **Member of Student Union, Shenzhen MSU-BIT University**
     
 
-## 项目 **Projects**
+## 项目 Projects
 
 [原创设计深圳北理莫斯科大学学生会Logo](https://mp.weixin.qq.com/s/UUB207kcCMzUx-u4nrESOg)
 
 **Original Logo Designer for the Student Union of Shenzhen MSU-BIT University**
 {% include_relative _includes/publications.md %}
-
-{% include_relative _includes/services.md %}
