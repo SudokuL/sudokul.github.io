@@ -45,17 +45,15 @@ layout: homepage
 - 英语四级
     
     **CET-4 Certificate (College English Test, Band 4)**
-    
+- 蓝桥杯艺术赛（在投）
+
+  **Blue Bridge Cup Art Competition (Under Review)**
 
 ## 社团活动 Extracurricular Activities
 
 - 深圳北理莫斯科大学新媒体中心设计部部长
     
     **Head of Design Department, New Media Center, Shenzhen MSU-BIT University**
-    
-- 深圳北理莫斯科大学学生会成员
-    
-    **Member of Student Union, Shenzhen MSU-BIT University**
     
 
 ## 项目 Projects
