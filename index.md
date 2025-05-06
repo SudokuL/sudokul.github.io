@@ -13,13 +13,11 @@ layout: homepage
 
 [**Shenzhen MSU-BIT University**](https://www.smbu.edu.cn/index.htm) — [Faculty of Computational Mathematics and Cybernetics](https://www.smbu.edu.cn/xsjg/jssxykzx/yxjs.htm), Undergraduate 2023–2027 (Shanghai Ranking 106), GPA 3.86/4, Top 15%
 
----
 
 🏫🇷🇺[莫斯科国立罗蒙诺索夫大学](https://msu.ru/) — [计算数学与控制系](https://cs.msu.ru/en) 本科在读 2023-2027（QS排名94）GPA 3.86/4   Top15%
 
 [**Lomonosov Moscow State University**](https://msu.ru/) — [Faculty of Computational Mathematics and Cybernetics](https://cs.msu.ru/en), Undergraduate 2023–2027 (QS Ranking 94), GPA 3.86/4, Top 15%
 
----
 
 🧑‍🏫我现在师从深圳北理莫斯科大学[曾润浩博士](https://zengrunhao.com/index.html)
 
