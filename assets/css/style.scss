@@ -2,3 +2,48 @@
 ---
 
 @import "minimal-light";
+.fancy-image {
+  width: 300px; /* 图片宽度，可以自己调 */
+  border-radius: 12px; /* 圆角 */
+  transition: all 0.4s ease; /* 让变化更丝滑 */
+  opacity: 0;
+  transform: scale(0.95);
+  animation: fadeIn 1s forwards;
+}
+
+.fancy-image:hover {
+  transform: scale(1.40); /* 鼠标悬停时放大一点点 */
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); /* 加一点阴影 */
+}
+
+img.fancy-image {
+  width: 250px; /* 所有 fancy-image 图片统一宽度，比如250px */
+  height: auto; /* 高度自适应 */
+  object-fit: cover; /* 防止图片变形或拉伸 */
+  border-radius: 12px;
+  transition: all 0.4s ease;
+  opacity: 0;
+  transform: scale(0.95);
+  animation: fadeIn 1s forwards;
+}
+
+img.fancy-image:hover {
+  transform: scale(1.05);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+
+@keyframes fadeIn {
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+
+/* 加载时渐变出现 */
+@keyframes fadeIn {
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
