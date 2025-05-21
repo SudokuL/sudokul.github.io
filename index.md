@@ -3,58 +3,55 @@ layout: homepage
 ---
 ## 方向特长 Interests
 
-深度学习、机器学习、算法编程、平面设计
-
-**Deep learning, machine learning, algorithm programming, graphic design**
+<div style="line-height: 1.2;">
+深度学习、机器学习、算法编程、平面设计<br>
+<b>Deep learning, Machine Learning, Algorithm Programming, Graphic Design</b>
+</div>
 
 ## 学业 Education
 
-🏫深北莫北理莫斯科大学 — [计算数学与控制系](https://www.smbu.edu.cn/xsjg/jssxykzx/yxjs.htm) 本科在读 2023-2027（软科排名106）GPA 3.86/4   Top15%
+<div style="line-height: 1.2;">
+🏫深北莫北理莫斯科大学 — <a href="https://www.smbu.edu.cn/xsjg/jssxykzx/yxjs.htm">计算数学与控制系</a> 本科在读 2023-2027（软科排名106）GPA 3.86/4 Top15%<br>
+<b><a href="https://www.smbu.edu.cn/index.htm">Shenzhen MSU-BIT University</a></b> — Faculty of Computational Mathematics and Cybernetics, Undergraduate 2023–2027 (Shanghai Ranking 106), GPA 3.86/4, Top 15%
+</div>
 
-[**Shenzhen MSU-BIT University**](https://www.smbu.edu.cn/index.htm) — [Faculty of Computational Mathematics and Cybernetics](https://www.smbu.edu.cn/xsjg/jssxykzx/yxjs.htm), Undergraduate 2023–2027 (Shanghai Ranking 106), GPA 3.86/4, Top 15%
+<div style="line-height: 1.2;">
+🏫莫斯科国立罗蒙诺索夫大学 — <a href="https://cs.msu.ru/en">计算数学与控制系</a> 本科在读 2023-2027（QS排名94）GPA 3.86/4 Top15%<br>
+<b><a href="https://msu.ru/">Lomonosov Moscow State University</a></b> — Faculty of Computational Mathematics and Cybernetics, Undergraduate 2023–2027 (QS Ranking 94), GPA 3.86/4, Top 15%
+</div>
 
-
-🏫莫斯科国立罗蒙诺索夫大学 — [计算数学与控制系](https://cs.msu.ru/en) 本科在读 2023-2027（QS排名94）GPA 3.86/4   Top15%
-
-[**Lomonosov Moscow State University**](https://msu.ru/) — [Faculty of Computational Mathematics and Cybernetics](https://cs.msu.ru/en), Undergraduate 2023–2027 (QS Ranking 94), GPA 3.86/4, Top 15%
-
-
-🧑‍🏫我现在师从深圳北理莫斯科大学[曾润浩博士](https://zengrunhao.com/index.html)
-
-**Currently studying under [Dr. Runhao Zeng](https://ai.smbu.edu.cn/info/1251/1881.htm), Shenzhen MSU-BIT University**
+<div style="line-height: 1.2;">
+🧑‍🏫我现在师从深圳北理莫斯科大学<a href="https://zengrunhao.com/index.html">曾润浩博士</a><br>
+<b>Currently studying under <a href="https://ai.smbu.edu.cn/info/1251/1881.htm">Dr. Runhao Zeng</a>, Shenzhen MSU-BIT University</b>
+</div>
 
 ## 论文 Publications
 
-- **SM-CBNet: A Speech-Based Parkinson’s Disease Diagnosis Model with SMOTE–ENN and CNN+BiLSTM Integration** (ICIC, CCF-C, Oral) 2025
-  X. Wang, W. Pan, **R. Liu**, K. Jin and Z. Tian
+- <b>SM-CBNet: A Speech-Based Parkinson’s Disease Diagnosis Model with SMOTE–ENN and CNN+BiLSTM Integration</b> (ICIC, CCF-C, Oral) 2025  
+  X. Wang, W. Pan, <b>R. Liu</b>, K. Jin and Z. Tian
 
 ## 奖项 Honors
 
-- 全球校园人工智能算法精英大赛算法专项赛省二等奖，国家三等奖
-  
-    **Second Prize in Guangdong Province and Third Prize Nationally in the Global Campus AI Algorithm Elite Competition – Algorithm Track**
-    
-- 蓝桥杯软件赛个人赛Python广东省赛省二等奖
-  
-    **Provincial Second Prize in the Blue Bridge Cup Python Competition (Individual)**
-    
-- 深圳北理莫斯科大学奖学金两次
-  
-    **Two-time Recipient of SMBU Academic Scholarship**
-    
-- 英语四级
-  
-    **CET-4 Certificate (College English Test, Band 4)**
-  
-- 蓝桥杯艺术赛（在投）
-  
-  **Blue Bridge Cup Art Competition (Under Review)**
-  
-- 全国大学生物联网设计竞赛（在投）
-  
-  **National University Student Internet of Things Design Competition(Under Review)**
-
-- ......
+<ul class="tight-list">
+  <li>全球校园人工智能算法精英大赛算法专项赛省二等奖，国家三等奖<br>
+    <b>Second Prize in Guangdong Province and Third Prize Nationally in the Global Campus AI Algorithm Elite Competition – Algorithm Track</b>
+  </li>
+  <li>蓝桥杯软件赛个人赛 Python 广东省赛省二等奖<br>
+    <b>Provincial Second Prize in the Blue Bridge Cup Python Competition (Individual)</b>
+  </li>
+  <li>深圳北理莫斯科大学奖学金两次<br>
+    <b>Two-time Recipient of SMBU Academic Scholarship</b>
+  </li>
+  <li>英语四级<br>
+    <b>CET-4 Certificate (College English Test, Band 4)</b>
+  </li>
+  <li>蓝桥杯艺术赛（在投）<br>
+    <b>Blue Bridge Cup Art Competition (Under Review)</b>
+  </li>
+  <li>全国大学生物联网设计竞赛（在投）<br>
+    <b>National University Student Internet of Things Design Competition (Under Review)</b>
+  </li>
+</ul>
 
 
 <div class="loop-slider">
@@ -79,7 +76,7 @@ layout: homepage
   
 - 深圳北理莫斯科大学数学建模协会骨干成员
   
-    **Core Member of the Mathematical Modeling Association of Shenzhen MSU-BIT University**
+    **Core Member, Mathematical Modeling Association, Shenzhen MSU-BIT University**
 
 ## 项目 Projects
 
@@ -87,12 +84,11 @@ layout: homepage
   <a href="https://mp.weixin.qq.com/s/UUB207kcCMzUx-u4nrESOg" class="notion-card" target="_blank">
     <img src="./MYDATA/xshlogo.png" alt="会徽" class="card-img">
     <div class="card-text">
-      <h3>「独立」且「原创」设计深圳北理莫斯科大学学生会会徽</h3>
-      <p>点击跳转至微信公众号推文</p>
+      <h3>「独立原创」设计了深圳北理莫斯科大学学生会会徽，被使用至今</h3>
+      <p>点击跳转至公众号推文</p>
     </div>
   </a>
 </div>
 
-**Original Logo Designer for the Student Union of Shenzhen MSU-BIT University**
 {% include_relative _includes/publications.md %}
 
