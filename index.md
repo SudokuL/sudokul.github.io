@@ -74,9 +74,11 @@ layout: homepage
 ## 社团活动 Extracurricular Activities
 
 - 深圳北理莫斯科大学新媒体中心设计部部长
+  
     **Head of Design Department, New Media Center, Shenzhen MSU-BIT University**
   
 - 深圳北理莫斯科大学数学建模协会骨干成员
+  
     **Core Member of the Mathematical Modeling Association of Shenzhen MSU-BIT University**
 
 ## 项目 Projects
