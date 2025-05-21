@@ -3,26 +3,26 @@ layout: homepage
 ---
 ## 方向特长 Interests
 
-<div style="line-height: 1.2;">
-深度学习、机器学习、算法编程、平面设计<br>
-<b>Deep learning, Machine Learning, Algorithm Programming, Graphic Design</b>
+<div class="compact-pair">
+  深度学习、机器学习、算法编程、平面设计<br>
+  <b>Deep learning, Machine Learning, Algorithm Programming, Graphic Design</b>
 </div>
 
 ## 学业 Education
 
-<div style="line-height: 1.2;">
-🏫深北莫北理莫斯科大学 — <a href="https://www.smbu.edu.cn/xsjg/jssxykzx/yxjs.htm">计算数学与控制系</a> 本科在读 2023-2027（软科排名106）GPA 3.86/4 Top15%<br>
-<b><a href="https://www.smbu.edu.cn/index.htm">Shenzhen MSU-BIT University</a></b> — Faculty of Computational Mathematics and Cybernetics, Undergraduate 2023–2027 (Shanghai Ranking 106), GPA 3.86/4, Top 15%
+<div class="compact-pair">
+  🏫深北莫北理莫斯科大学 — <a href="https://www.smbu.edu.cn/xsjg/jssxykzx/yxjs.htm">计算数学与控制系</a> 本科在读 2023–2027（软科排名106）GPA 3.86/4 Top15%<br>
+  <b><a href="https://www.smbu.edu.cn/index.htm">Shenzhen MSU-BIT University</a></b> — Faculty of Computational Mathematics and Cybernetics, Undergraduate 2023–2027 (Shanghai Ranking 106), GPA 3.86/4, Top 15%
 </div>
 
-<div style="line-height: 1.2;">
-🏫莫斯科国立罗蒙诺索夫大学 — <a href="https://cs.msu.ru/en">计算数学与控制系</a> 本科在读 2023-2027（QS排名94）GPA 3.86/4 Top15%<br>
-<b><a href="https://msu.ru/">Lomonosov Moscow State University</a></b> — Faculty of Computational Mathematics and Cybernetics, Undergraduate 2023–2027 (QS Ranking 94), GPA 3.86/4, Top 15%
+<div class="compact-pair">
+  🏫莫斯科国立罗蒙诺索夫大学 — <a href="https://cs.msu.ru/en">计算数学与控制系</a> 本科在读 2023–2027（QS排名94）GPA 3.86/4 Top15%<br>
+  <b><a href="https://msu.ru/">Lomonosov Moscow State University</a></b> — Faculty of Computational Mathematics and Cybernetics, Undergraduate 2023–2027 (QS Ranking 94), GPA 3.86/4, Top 15%
 </div>
 
-<div style="line-height: 1.2;">
-🧑‍🏫我现在师从深圳北理莫斯科大学<a href="https://zengrunhao.com/index.html">曾润浩博士</a><br>
-<b>Currently studying under <a href="https://ai.smbu.edu.cn/info/1251/1881.htm">Dr. Runhao Zeng</a>, Shenzhen MSU-BIT University</b>
+<div class="compact-pair">
+  🧑‍🏫我现在师从深圳北理莫斯科大学<a href="https://zengrunhao.com/index.html">曾润浩博士</a><br>
+  <b>Currently studying under <a href="https://ai.smbu.edu.cn/info/1251/1881.htm">Dr. Runhao Zeng</a>, Shenzhen MSU-BIT University</b>
 </div>
 
 ## 论文 Publications
@@ -52,7 +52,6 @@ layout: homepage
     <b>National University Student Internet of Things Design Competition (Under Review)</b>
   </li>
 </ul>
-
 
 <div class="loop-slider">
   <div class="slider-track">
