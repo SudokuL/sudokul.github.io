@@ -31,25 +31,32 @@ layout: homepage
 ## 奖项 Honors
 
 - 全球校园人工智能算法精英大赛算法专项赛省二等奖，国家三等奖
-    
+  
     **Second Prize in Guangdong Province and Third Prize Nationally in the Global Campus AI Algorithm Elite Competition – Algorithm Track**
     
 - 蓝桥杯软件赛个人赛Python广东省赛省二等奖
-    
-    [**Provincial Second Prize** in the Blue Bridge Cup Python Competition (Individual)](https://dasai.lanqiao.cn/)
+  
+    **Provincial Second Prize in the Blue Bridge Cup Python Competition (Individual)**
     
 - 深圳北理莫斯科大学奖学金两次
-    
+  
     **Two-time Recipient of SMBU Academic Scholarship**
     
 - 英语四级
-    
-    **CET-4 Certificate (College English Test, Band 4)**
-- 蓝桥杯艺术赛（在投）
-
-  **Blue Bridge Cup Art Competition (Under Review)**
-
   
+    **CET-4 Certificate (College English Test, Band 4)**
+  
+- 蓝桥杯艺术赛（在投）
+  
+  **Blue Bridge Cup Art Competition (Under Review)**
+  
+- 全国大学生物联网设计竞赛（在投）
+  
+  **National University Student Internet of Things Design Competition(Under Review)**
+
+- ......
+
+
 <div class="loop-slider">
   <div class="slider-track">
     <img src="./MYDATA/Jiangxuejin1.jpg" class="fancy-image">
@@ -66,8 +73,16 @@ layout: homepage
 
 ## 社团活动 Extracurricular Activities
 
+<a href="https://mp.weixin.qq.com/s/UUB207kcCMzUx-u4nrESOg" class="card-link">
+  <div class="notion-card">
+    <img src="./MYDATA/logo动画8_3.gif" alt="图标" style="width:40px;">
+    <h3>查看详情</h3>
+    <p>独立原创设计深圳北理莫斯科大学学生会会徽</p>
+  </div>
+</a>
+
+
 - 深圳北理莫斯科大学新媒体中心设计部部长
-    
     **Head of Design Department, New Media Center, Shenzhen MSU-BIT University**
     
 
