@@ -71,3 +71,19 @@ layout: homepage
 
 **Original Logo Designer for the Student Union of Shenzhen MSU-BIT University**
 {% include_relative _includes/publications.md %}
+
+
+<script>
+  const carousel = document.getElementById('carousel');
+  let scrollAmount = 0;
+  const step = 270;
+
+  setInterval(() => {
+    if (scrollAmount >= carousel.scrollWidth - carousel.clientWidth) {
+      scrollAmount = 0;
+    } else {
+      scrollAmount += step;
+    }
+    carousel.scrollTo({ left: scrollAmount, behavior: 'smooth' });
+  }, 3000);
+</script>
