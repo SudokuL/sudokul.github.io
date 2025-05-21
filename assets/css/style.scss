@@ -142,13 +142,21 @@ img.fancy-image:hover {
   margin-bottom: 24px;
 }
 
+.card-grid {
+  display: flex;
+  justify-content: center;
+  padding: 1rem;
+}
+
 .notion-card {
   display: block;
-  border: 1px solid #ccc;
+  max-width: 400px;
+  width: 100%;
+  background: #fff;
+  border: 1px solid #ddd;
   border-radius: 12px;
-  padding: 16px;
-  background: #ffffff;
-  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.05);
+  overflow: hidden;
   text-decoration: none;
   color: inherit;
   transition: transform 0.2s ease, box-shadow 0.3s ease;
@@ -156,24 +164,28 @@ img.fancy-image:hover {
 
 .notion-card:hover {
   transform: translateY(-5px);
-  box-shadow: 0 12px 24px rgba(0, 0, 0, 0.12);
+  box-shadow: 0 12px 24px rgba(0, 0, 0, 0.15);
 }
 
 .card-img {
   width: 100%;
-  max-height: 180px;
+  height: auto;
   object-fit: contain;
-  border-radius: 8px;
-  margin-bottom: 12px;
+  display: block;
+  border-bottom: 1px solid #eee;
 }
 /* 你也可以设置字体大小或文字样式 */
-.notion-card h3 {
-  margin-top: 0;
+.card-text {
+  padding: 16px;
+}
+
+.card-text h3 {
+  margin: 0 0 0.5rem 0;
   font-size: 1.2em;
 }
 
-.notion-card p {
-  margin-bottom: 0;
-  font-size: 1em;
+.card-text p {
+  margin: 0;
   color: #555;
+  font-size: 0.95em;
 }
