@@ -130,3 +130,34 @@ img.fancy-image:hover {
   }
 }
 
+.card-link {
+  text-decoration: none;
+  color: inherit;
+}
+
+.notion-card {
+  border: 1px solid #ddd;
+  border-radius: 12px;
+  padding: 16px;
+  margin: 16px 0;
+  background-color: #fafafa;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
+  transition: transform 0.2s ease, box-shadow 0.3s ease;
+}
+
+.notion-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 12px 24px rgba(0, 0, 0, 0.1);
+}
+
+/* 你也可以设置字体大小或文字样式 */
+.notion-card h3 {
+  margin-top: 0;
+  font-size: 1.2em;
+}
+
+.notion-card p {
+  margin-bottom: 0;
+  font-size: 1em;
+  color: #555;
+}
