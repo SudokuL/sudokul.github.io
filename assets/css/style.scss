@@ -81,6 +81,7 @@ img.fancy-image:hover {
   display: flex;
   width: max-content;
   animation: scrollLoop 20s linear infinite;
+  will-change: transform;
 }
 
 .slider-track img {
@@ -89,13 +90,18 @@ img.fancy-image:hover {
   margin-right: 16px;
   flex-shrink: 0;
   border-radius: 12px;
-  transition: transform 0.4s;
+  transition: transform 0.4s ease, box-shadow 0.3s ease;
+  transform-origin: center;
+  perspective: 1000px;
 }
 
 .slider-track img:hover {
-  transform: scale(1.1);
+  transform: scale(1.2);
+  box-shadow: 0 12px 24px rgba(0, 0, 0, 0.2);
+  z-index: 10;
 }
 
+/* 无限滚动动画 */
 @keyframes scrollLoop {
   0% {
     transform: translateX(0);
@@ -104,3 +110,4 @@ img.fancy-image:hover {
     transform: translateX(-50%);
   }
 }
+
