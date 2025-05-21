@@ -73,24 +73,23 @@ layout: homepage
 
 ## 社团活动 Extracurricular Activities
 
+- 深圳北理莫斯科大学新媒体中心设计部部长
+    **Head of Design Department, New Media Center, Shenzhen MSU-BIT University**
+  
+- 深圳北理莫斯科大学数学建模协会骨干成员
+    **Core Member of the Mathematical Modeling Association of Shenzhen MSU-BIT University**
+
+## 项目 Projects
+
 <div class="card-grid">
   <a href="https://mp.weixin.qq.com/s/UUB207kcCMzUx-u4nrESOg" class="notion-card" target="_blank">
     <img src="./MYDATA/xshlogo.png" alt="会徽" class="card-img">
     <div class="card-text">
-      <h3>查看详情</h3>
-      <p>独立原创设计深圳北理莫斯科大学学生会会徽</p>
+      <h3>「独立」且「原创」设计深圳北理莫斯科大学学生会会徽</h3>
+      <p>点击跳转至微信公众号推文</p>
     </div>
   </a>
 </div>
-
-
-- 深圳北理莫斯科大学新媒体中心设计部部长
-    **Head of Design Department, New Media Center, Shenzhen MSU-BIT University**
-    
-
-## 项目 Projects
-
-原创设计[深圳北理莫斯科大学学生会Logo](https://mp.weixin.qq.com/s/UUB207kcCMzUx-u4nrESOg)
 
 **Original Logo Designer for the Student Union of Shenzhen MSU-BIT University**
 {% include_relative _includes/publications.md %}
