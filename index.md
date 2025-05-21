@@ -73,11 +73,13 @@ layout: homepage
 
 ## 社团活动 Extracurricular Activities
 
-<div class="notion-card-wrapper">
-  <a href="https://mp.weixin.qq.com/s/UUB207kcCMzUx-u4nrESOg" class="notion-card" target="_blank" rel="noopener noreferrer">
-    <img src="./MYDATA/xshlogo.png" alt="图标" class="card-img">
-    <h3>查看详情</h3>
-    <p>独立原创设计深圳北理莫斯科大学学生会会徽</p>
+<div class="card-grid">
+  <a href="https://mp.weixin.qq.com/s/UUB207kcCMzUx-u4nrESOg" class="notion-card" target="_blank">
+    <img src="./MYDATA/xshlogo.png" alt="会徽" class="card-img">
+    <div class="card-text">
+      <h3>查看详情</h3>
+      <p>独立原创设计深圳北理莫斯科大学学生会会徽</p>
+    </div>
   </a>
 </div>
 
