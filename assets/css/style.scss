@@ -84,7 +84,7 @@ img.fancy-image:hover {
   will-change: transform;
 }
 
-.slider-track img {
+.slider-track .fancy-image {
   width: 250px;
   height: auto;
   margin-right: 16px;
@@ -95,13 +95,12 @@ img.fancy-image:hover {
   perspective: 1000px;
 }
 
-.slider-track img:hover {
+.slider-track .fancy-image:hover {
   transform: scale(1.2);
   box-shadow: 0 12px 24px rgba(0, 0, 0, 0.2);
   z-index: 10;
 }
 
-/* 无限滚动动画 */
 @keyframes scrollLoop {
   0% {
     transform: translateX(0);
