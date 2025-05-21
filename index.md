@@ -50,7 +50,7 @@ layout: homepage
   **Blue Bridge Cup Art Competition (Under Review)**
 
   
-<div class="scroll-gallery">
+<div class="scroll-gallery" id="carousel">
   <img src="./MYDATA/Jiangxuejin1.jpg" alt="我的照片" class="fancy-image">
   <img src="./MYDATA/sfjysss.png" alt="我的照片" class="fancy-image">
   <img src="./MYDATA/sfjysgs.png" alt="我的照片" class="fancy-image">
