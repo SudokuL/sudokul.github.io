@@ -50,10 +50,16 @@ layout: homepage
   **Blue Bridge Cup Art Competition (Under Review)**
 
   
-<div class="scroll-gallery" id="carousel">
-  <img src="./MYDATA/Jiangxuejin1.jpg" alt="我的照片" class="fancy-image">
-  <img src="./MYDATA/sfjysss.png" alt="我的照片" class="fancy-image">
-  <img src="./MYDATA/sfjysgs.png" alt="我的照片" class="fancy-image">
+<div class="loop-slider">
+  <div class="slider-track">
+    <img src="./MYDATA/Jiangxuejin1.jpg" class="fancy-image">
+    <img src="./MYDATA/sfjysss.png" class="fancy-image">
+    <img src="./MYDATA/sfjysgs.png" class="fancy-image">
+    <!-- 再复制一轮，实现无缝衔接 -->
+    <img src="./MYDATA/Jiangxuejin1.jpg" class="fancy-image">
+    <img src="./MYDATA/sfjysss.png" class="fancy-image">
+    <img src="./MYDATA/sfjysgs.png" class="fancy-image">
+  </div>
 </div>
 
 
