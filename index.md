@@ -75,7 +75,7 @@ layout: homepage
 
 <a href="https://mp.weixin.qq.com/s/UUB207kcCMzUx-u4nrESOg" class="card-link">
   <div class="notion-card">
-    <img src="./MYDATA/logo动画8_3.gif" alt="图标" style="width:40px;">
+    <img src="./MYDATA/xshlogo.png" alt="图标" style="width:40px;">
     <h3>查看详情</h3>
     <p>独立原创设计深圳北理莫斯科大学学生会会徽</p>
   </div>
