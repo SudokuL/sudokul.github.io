@@ -39,6 +39,18 @@ img.fancy-image:hover {
   }
 }
 
+.scroll-gallery {
+  display: flex;             /* 横向排列 */
+  overflow-x: auto;          /* 出现滚动条 */
+  gap: 16px;                 /* 图片间距 */
+  padding: 10px;
+  scroll-snap-type: x mandatory;
+}
+
+.scroll-gallery img {
+  scroll-snap-align: start;
+  flex: 0 0 auto;
+}
 
 /* 加载时渐变出现 */
 @keyframes fadeIn {
