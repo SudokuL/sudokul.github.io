@@ -48,7 +48,11 @@ layout: homepage
 - 蓝桥杯艺术赛（在投）
 
   **Blue Bridge Cup Art Competition (Under Review)**
-<img src="./Jiangxuejin1.jpg" alt="我的照片" class="fancy-image">
+<img src="./MYDATA/Jiangxuejin1.jpg" alt="我的照片" class="fancy-image">
+
+<img src="./MYDATA/sfjysss.png" alt="我的照片" class="fancy-image">
+
+<img src="./MYDATA/sfjysgs.png" alt="我的照片" class="fancy-image">
 
 
 ## 社团活动 Extracurricular Activities
