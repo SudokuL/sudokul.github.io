@@ -146,6 +146,8 @@ Wechat: SodokuL  ,  Email: soduku645@gmail.com
 
 ## 社团活动 Extracurricular Activities
 
+
+
 <div class="zh-en-block">
   🎨 深圳北理莫斯科大学新媒体中心设计部部长<br>
   <span class="en-line">Head of Design Department, New Media Center, Shenzhen MSU-BIT University</span>
@@ -172,5 +174,23 @@ Wechat: SodokuL  ,  Email: soduku645@gmail.com
   </a>
 </div>
 
+## 其他经历 Else
+
+<div class="photo-grid">
+  <img src="./青鸟计划.png" alt="图1">
+</div>
+
+<div class="zh-en-block">
+  📌 2023年9月至2024年2月在深圳北理莫斯科大学招生办公室工作，任职「招生助理」。主持招生宣讲会议，招生信息数据整理等。<br>
+  <span class="en-line">Worked at the Admissions Office of Shenzhen MSU-BIT University from September 2023 to February 2024 as an Admissions Assistant. Responsibilities included leading admissions presentations and organizing enrollment data.</span>
+</div>
+
+<div class="zh-en-block">
+  🏃 2024年6月至8月在临沂市体育局实习，任职「智能体育宣传推广助理」。管理市体育小程序后台，日常数据库维护与 Debug。<br>
+  <span class="en-line">Interned at the Linyi Municipal Sports Bureau from June to August 2024 as an Assistant for Smart Sports Promotion. Responsible for managing the backend of the city's sports mini program, maintaining the database, and daily debugging.</span>
+</div>
+
+
 {% include_relative _includes/publications.md %}
+
 
