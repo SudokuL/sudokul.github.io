@@ -21,8 +21,8 @@ github_link: https://github.com/SudokuL
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
 avatar: ./11.jpg
-favicon: ./LRD.jpg
-favicon_dark: ./LRD.jpg
+favicon: ./画板 1@4x.png
+favicon_dark: ./画板 1@4x.png
 
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
