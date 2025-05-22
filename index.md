@@ -33,7 +33,7 @@ Wechat: SodokuL  ,  Email: soduku645@gmail.com
 
 
 <div class="zh-en-block">
-  🧑‍🏫我现在师从深圳北理莫斯科大学<a href="https://ai.smbu.edu.cn/info/1251/1881.html">曾润浩教授</a>实验室，任职研究助理(RA)<br>
+  🧑‍🏫我现在师从深圳北理莫斯科大学<a href="https://ai.smbu.edu.cn/info/1251/1881.html">曾润浩教授</a>，任职研究助理(RA)<br>
   <span class="en-line">Currently studying under <a href="https://zengrunhao.com/index.html">Dr. Runhao Zeng</a>, Shenzhen MSU-BIT University</span>
 </div>
 
