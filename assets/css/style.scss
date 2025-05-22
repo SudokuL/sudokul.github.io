@@ -2,67 +2,7 @@
 ---
 
 @import "minimal-light";
-/*背景背景背景背景背景背景背景背景背景*/
-body {
-  position: relative;
-  background: #ffffff;
-  /*overflow: hidden;*/
-}
 
-/* 多个渐变气泡容器 */
-.gradient-bubble {
-  position: absolute;
-  width: 400px;
-  height: 400px;
-  background: radial-gradient(circle, rgba(255, 200, 250, 0.25), transparent 70%);
-  filter: blur(80px);
-  border-radius: 50%;
-  animation: floatBubble 20s infinite ease-in-out;
-  pointer-events: none;
-  position: fixed;
-  z-index: -1;
-}
-
-/* 再加几个浅色变体（可以放多个元素） */
-.gradient-bubble:nth-child(2) {
-  top: 30%;
-  left: 60%;
-  background: radial-gradient(circle, rgba(200, 240, 255, 0.25), transparent 70%);
-  animation-delay: 5s;
-}
-
-.gradient-bubble:nth-child(3) {
-  top: 70%;
-  left: 30%;
-  background: radial-gradient(circle, rgba(255, 255, 200, 0.25), transparent 70%);
-  animation-delay: 10s;
-}
-
-/* 动画控制：出现 + 位移 + 消失 */
-@keyframes floatBubble {
-  0% {
-    transform: translate(0, 0) scale(1);
-    opacity: 0;
-  }
-  25% {
-    opacity: 1;
-  }
-  75% {
-    opacity: 1;
-  }
-  100% {
-    transform: translate(-100px, -50px) scale(1.2);
-    opacity: 0;
-  }
-}
-.wrapper {
-  background-color: rgba(255, 255, 255, 0.95);
-  padding: 2rem;
-  border-radius: 12px;
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.03);
-}
-
-/*背景背景背景背景背景背景背景背景背景*/
 .compact-pair {
   line-height: 1.3;
   margin-bottom: 1.8em;
