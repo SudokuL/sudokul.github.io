@@ -158,6 +158,11 @@ Wechat: SodokuL  ,  Email: soduku645@gmail.com
   <span class="en-line">Core Member, Mathematical Modeling Association, Shenzhen MSU-BIT University</span>
 </div>
 
+<div class="photo-grid">
+  <img src="./MYDATA/新媒体聘书.png" alt="新媒体聘书">
+  <img src="./MYDATA/新媒体技术分享.png" alt="新媒体技术分享">
+</div>
+
 
 <hr class="pretty-line">
 
@@ -176,9 +181,7 @@ Wechat: SodokuL  ,  Email: soduku645@gmail.com
 
 ## 其他经历 Else
 
-<div class="photo-grid">
-  <img src="./MYDATA/青鸟计划.png" alt="图1">
-</div>
+
 
 <div class="zh-en-block">
   📌 2023年9月至2024年2月在深圳北理莫斯科大学招生办公室工作，任职「招生助理」。主持招生宣讲会议，招生信息数据整理等。<br>
@@ -190,6 +193,10 @@ Wechat: SodokuL  ,  Email: soduku645@gmail.com
   <span class="en-line">Interned at the Linyi Municipal Sports Bureau from June to August 2024 as an Assistant for Smart Sports Promotion. Responsible for managing the backend of the city's sports mini program, maintaining the database, and daily debugging.</span>
 </div>
 
+
+<div class="photo-grid">
+  <img src="./MYDATA/青鸟计划.png" alt="体育局实习">
+</div>
 
 {% include_relative _includes/publications.md %}
 
