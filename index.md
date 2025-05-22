@@ -3,9 +3,10 @@ layout: homepage
 ---
 
 #  刘瑞达⭐Ruida Liu
-  ☎️ Contact me
-    + Wechat: SodokuL
-    + Email: soduku645@gmail.com
+  ☎️ Contact me:
+  + Wechat: SodokuL
+  + Email: soduku645@gmail.com
+    
     
 <hr class="gradient-line">
 
@@ -34,8 +35,8 @@ layout: homepage
 
 
 <div class="zh-en-block">
-  🧑‍🏫我现在师从深圳北理莫斯科大学<a href="https://zengrunhao.com/index.html">曾润浩博士</a><br>
-  <span class="en-line">Currently studying under <a href="https://ai.smbu.edu.cn/info/1251/1881.htm">Dr. Runhao Zeng</a>, Shenzhen MSU-BIT University</span>
+  🧑‍🏫我现在师从深圳北理莫斯科大学<a href="https://ai.smbu.edu.cn/info/1251/1881.html">曾润浩教授实验室，任职研究助理(RA)</a><br>
+  <span class="en-line">Currently studying under <a href="https://zengrunhao.com/index.html">Dr. Runhao Zeng</a>, Shenzhen MSU-BIT University</span>
 </div>
 
 <hr class="pretty-line">
