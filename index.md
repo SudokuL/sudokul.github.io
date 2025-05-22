@@ -84,7 +84,7 @@ layout: homepage
 
 <div class="card-grid">
   <a href="https://mp.weixin.qq.com/s/UUB207kcCMzUx-u4nrESOg" class="notion-card" target="_blank">
-    <img src="./MYDATA/xshlogo.png" alt="会徽" class="card-img">
+    <img src="./MYDATA/画板 1 副本@4x.png" alt="会徽" class="card-img">
     <div class="card-text">
       <h3>「独立原创」设计了深圳北理莫斯科大学学生会会徽，被使用至今</h3>
       <p>点击跳转至公众号推文</p>
