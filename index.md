@@ -3,7 +3,10 @@ layout: homepage
 ---
 
 #  刘瑞达⭐Ruida Liu
-  ☎️ Wechat: SodokuL 
+  ☎️ Contact me
+    + Wechat: SodokuL
+    + Email: soduku645@gmail.com
+    
 <hr class="gradient-line">
 
 ## 方向特长 Interests
