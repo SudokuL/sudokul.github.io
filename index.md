@@ -177,7 +177,7 @@ Wechat: SodokuL  ,  Email: soduku645@gmail.com
 ## 其他经历 Else
 
 <div class="photo-grid">
-  <img src="./青鸟计划.png" alt="图1">
+  <img src="./MYDATA/青鸟计划.png" alt="图1">
 </div>
 
 <div class="zh-en-block">
