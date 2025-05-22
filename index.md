@@ -8,6 +8,9 @@ layout: homepage
   <span class="en-line">Deep Learning, Machine Learning, Algorithm Programming, Graphic Design</span>
 </div>
 
+<hr class="pretty-line">
+
+
 ## 学业 Education
 
 <div class="zh-en-block">
@@ -27,6 +30,9 @@ layout: homepage
   <span class="en-line">Currently studying under <a href="https://ai.smbu.edu.cn/info/1251/1881.htm">Dr. Runhao Zeng</a>, Shenzhen MSU-BIT University</span>
 </div>
 
+<hr class="pretty-line">
+
+
 ## 论文 Publications
 
 <div class="card-grid">
@@ -41,6 +47,9 @@ layout: homepage
 
 - **SM-CBNet: A Speech-Based Parkinson’s Disease Diagnosis Model with SMOTE–ENN and CNN+BiLSTM Integration** (ICIC, CCF-C, Oral) 2025
   X. Wang, W. Pan, **R. Liu**, K. Jin and Z. Tian
+
+<hr class="pretty-line">
+
 
 ## 奖项 Honors
 
@@ -108,7 +117,8 @@ layout: homepage
 
 
 
-<hr class="gradient-line">
+<hr class="pretty-line">
+
 
 
 
@@ -123,6 +133,10 @@ layout: homepage
   📐 深圳北理莫斯科大学数学建模协会骨干成员<br>
   <span class="en-line">Core Member, Mathematical Modeling Association, Shenzhen MSU-BIT University</span>
 </div>
+
+
+<hr class="pretty-line">
+
 
 ## 项目 Projects
 
