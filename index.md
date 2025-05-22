@@ -72,9 +72,20 @@ layout: homepage
 
 - 全国大学生物联网设计竞赛（在投）
 
-  **National University Student Internet of Things Design Competition(Under Review)**
+  **National University Student Internet of Things Design Competition (Under Review)**
+  
+- 中国大学生程序设计竞赛CCPC（在投）
 
+  **China Collegiate Programming Contest (CCPC) (Under Review)**
+
+- 全国算法精英大赛（在投）
+
+  **National Algorithm Elite Competition (Under Review)**
+
+  
 - ......
+
+
 
 <div class="loop-slider">
   <div class="slider-track">
