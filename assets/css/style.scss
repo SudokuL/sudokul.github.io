@@ -7,31 +7,31 @@
 /*背景*/
 @media (max-width: 600px) {
   .photo-grid img {
-    width: 100%;
-    height: auto;
+    max-width: 100%;
   }
 }
 
 .photo-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  display: flex;
+  flex-wrap: wrap;
   gap: 16px;
-  padding: 1rem;
+  justify-content: center;
 }
 
 .photo-grid img {
+  max-width: 240px;       /* 控制最大宽度 */
   width: 100%;
-  height: auto;
-  object-fit: cover; /* 覆盖容器但保留比例 */
-  aspect-ratio: 4 / 3; /* 统一比例但保留清晰度，适合普通照片 */
-  border-radius: 10px;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+  height: auto;           /* 高度自适应，保证比例 */
+  object-fit: contain;    /* 显示完整图像，不裁剪 */
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
   transition: transform 0.3s ease;
 }
 
 .photo-grid img:hover {
   transform: scale(1.05);
 }
+
 
 
 .compact-pair {
