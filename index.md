@@ -3,9 +3,7 @@ layout: homepage
 ---
 
 #  刘瑞达⭐Ruida Liu
-  ☎️ Contact me:
-  + Wechat: SodokuL
-  + Email: soduku645@gmail.com
+Wechat: SodokuL  ,  Email: soduku645@gmail.com
     
     
 <hr class="gradient-line">
