@@ -25,6 +25,16 @@ layout: homepage
 
 ## 论文 Publications
 
+<div class="card-grid">
+  <a href="https://mp.weixin.qq.com/s/UUB207kcCMzUx-u4nrESOg" class="notion-card" target="_blank">
+    <img src="./MYDATA/屏幕截图 2025-05-22 120919.png" alt="论文" class="card-img">
+    <div class="card-text">
+      <h3>「CCF-C ICIC2025 Oral」SM-CBNet: A Speech-Based Parkinson’s Disease Diagnosis Model with SMOTE–ENN and CNN+BiLSTM Integration</h3>
+      <p>预计六月可以检索</p>
+    </div>
+  </a>
+</div>
+
 - **SM-CBNet: A Speech-Based Parkinson’s Disease Diagnosis Model with SMOTE–ENN and CNN+BiLSTM Integration** (ICIC, CCF-C, Oral) 2025
   X. Wang, W. Pan, **R. Liu**, K. Jin and Z. Tian
 
