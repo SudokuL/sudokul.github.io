@@ -101,7 +101,10 @@ layout: homepage
   </div>
 </div>
 
+
 <hr class="pretty-line"><!--分隔线！-->
+<hr class="gradient-line">
+<div class="fancy-divider">✦ ✦ ✦</div>
 
 
 ## 社团活动 Extracurricular Activities
