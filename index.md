@@ -53,10 +53,13 @@ layout: homepage
 - **SM-CBNet: A Speech-Based Parkinson’s Disease Diagnosis Model with SMOTE–ENN and CNN+BiLSTM Integration** (ICIC, CCF-C, Oral) 2025
   X. Wang, W. Pan, **R. Liu**, K. Jin and Z. Tian
   
-<div class="zh-en-block">
-- 摘要：帕金森病（PD）是一种常见的神经退行性疾病。本研究提出了一种基于深度学习的语音诊断模型。针对数据不平衡问题，采用SMOTE–ENN方法，并构建了CNN与BiLSTM融合的混合架构，用于提取语音特征并建模时间序列关系。在公共数据集上，该模型准确率达到95%，优于传统机器学习和其他深度模型。结果表明该方法在PD早期精准筛查中具有良好应用前景，可为临床提供可靠的技术支持。</a><br>
-<span class="en-line">Abstract：Parkinson’s disease (PD) is a common neurodegenerative disorder. This study proposes a deep learning-based speech diagnostic model for PD. To address data imbalance, we apply SMOTE–ENN, and employ a hybrid CNN–BiLSTM architecture to extract acoustic features and model temporal patterns. Experiments on public datasets achieve 95% accuracy, surpassing traditional and other deep models. The results demonstrate the model’s effectiveness and its potential for accurate early PD screening in clinical settings. </span>
-</div>
+  <div class="zh-en-block">
+  📄 摘要：帕金森病（PD）是一种常见的神经退行性疾病。本研究提出了一种基于深度学习的语音诊断模型。针对数据不平衡问题，采用 SMOTE–ENN 方法，并构建了 CNN 与 BiLSTM 融合的混合架构，用于提取语音特征并建模时间序列关系。在公共数据集上，该模型准确率达到 95%，优于传统机器学习和其他深度模型。结果表明该方法在 PD 早期精准筛查中具有良好应用前景，可为临床提供可靠的技术支持。<br>
+  <span class="en-line">
+  📄 Abstract: Parkinson’s disease (PD) is a common neurodegenerative disorder. This study proposes a deep learning-based speech diagnostic model for PD. To address data imbalance, we apply SMOTE–ENN, and employ a hybrid CNN–BiLSTM architecture to extract acoustic features and model temporal patterns. Experiments on public datasets achieve 95% accuracy, surpassing traditional and other deep models. The results demonstrate the model’s effectiveness and its potential for accurate early PD screening in clinical settings.
+  </span>
+  </div>
+
 
 
 <hr class="pretty-line">
