@@ -1,37 +1,31 @@
 ---
 layout: homepage
 ---
-<div class="zh-en-block">
-  深度学习、机器学习、算法编程、平面设计<br>
-  <span class="en-line">Deep learning, machine learning, algorithm programming, graphic design</span>
-</div>
-
-<div class="zh-en-block">
-  莫斯科大学本科在读，GPA 3.86<br>
-  <span class="en-line">Undergraduate at Lomonosov Moscow State University, GPA 3.86</span>
-</div>
-
 ## 方向特长 Interests
 
-深度学习、机器学习、算法编程、平面设计
-
-**Deep learning, machine learning, algorithm programming, graphic design**
+<div class="zh-en-block">
+  深度学习、机器学习、算法编程、平面设计<br>
+  <span class="en-line">Deep Learning, Machine Learning, Algorithm Programming, Graphic Design</span>
+</div>
 
 ## 学业 Education
 
-🏫深北莫北理莫斯科大学 — [计算数学与控制系](https://www.smbu.edu.cn/xsjg/jssxykzx/yxjs.htm) 本科在读 2023-2027（软科排名106）GPA 3.86/4   Top15%
-
-[**Shenzhen MSU-BIT University**](https://www.smbu.edu.cn/index.htm) — [Faculty of Computational Mathematics and Cybernetics](https://www.smbu.edu.cn/xsjg/jssxykzx/yxjs.htm), Undergraduate 2023–2027 (Shanghai Ranking 106), GPA 3.86/4, Top 15%
-
-
-🏫莫斯科国立罗蒙诺索夫大学 — [计算数学与控制系](https://cs.msu.ru/en) 本科在读 2023-2027（QS排名94）GPA 3.86/4   Top15%
-
-[**Lomonosov Moscow State University**](https://msu.ru/) — [Faculty of Computational Mathematics and Cybernetics](https://cs.msu.ru/en), Undergraduate 2023–2027 (QS Ranking 94), GPA 3.86/4, Top 15%
+<div class="zh-en-block">
+  🏫深北莫北理莫斯科大学 — <a href="https://www.smbu.edu.cn/xsjg/jssxykzx/yxjs.htm">计算数学与控制系</a> 本科在读 2023-2027（软科排名106）GPA 3.86/4 Top15%<br>
+  <span class="en-line"><a href="https://www.smbu.edu.cn/index.htm"><b>Shenzhen MSU-BIT University</b></a> — <a href="https://www.smbu.edu.cn/xsjg/jssxykzx/yxjs.htm">Faculty of Computational Mathematics and Cybernetics</a>, Undergraduate 2023–2027 (Shanghai Ranking 106), GPA 3.86/4, Top 15%</span>
+</div>
 
 
-🧑‍🏫我现在师从深圳北理莫斯科大学[曾润浩博士](https://zengrunhao.com/index.html)
+<div class="zh-en-block">
+  🏫莫斯科国立罗蒙诺索夫大学 — <a href="https://cs.msu.ru/en">计算数学与控制系</a> 本科在读 2023-2027（QS排名94）GPA 3.86/4 Top15%<br>
+  <span class="en-line"><a href="https://msu.ru/"><b>Lomonosov Moscow State University</b></a> — <a href="https://cs.msu.ru/en">Faculty of Computational Mathematics and Cybernetics</a>, Undergraduate 2023–2027 (QS Ranking 94), GPA 3.86/4, Top 15%</span>
+</div>
 
-**Currently studying under [Dr. Runhao Zeng](https://ai.smbu.edu.cn/info/1251/1881.htm), Shenzhen MSU-BIT University**
+
+<div class="zh-en-block">
+  🧑‍🏫我现在师从深圳北理莫斯科大学<a href="https://zengrunhao.com/index.html">曾润浩博士</a><br>
+  <span class="en-line">Currently studying under <a href="https://ai.smbu.edu.cn/info/1251/1881.htm">Dr. Runhao Zeng</a>, Shenzhen MSU-BIT University</span>
+</div>
 
 ## 论文 Publications
 
@@ -50,37 +44,45 @@ layout: homepage
 
 ## 奖项 Honors
 
-- 全球校园人工智能算法精英大赛算法专项赛省二等奖，国家三等奖
+<div class="zh-en-block">
+  - 全球校园人工智能算法精英大赛算法专项赛省二等奖，国家三等奖<br>
+  <span class="en-line">Second Prize in Guangdong Province and Third Prize Nationally in the Global Campus AI Algorithm Elite Competition – Algorithm Track</span>
+</div>
 
-    **Second Prize in Guangdong Province and Third Prize Nationally in the Global Campus AI Algorithm Elite Competition – Algorithm Track**
+<div class="zh-en-block">
+  - 蓝桥杯软件赛个人赛 Python 广东省赛省二等奖<br>
+  <span class="en-line">Provincial Second Prize in the Blue Bridge Cup Python Competition (Individual)</span>
+</div>
 
-- 蓝桥杯软件赛个人赛Python广东省赛省二等奖
+<div class="zh-en-block">
+  - 深圳北理莫斯科大学奖学金两次<br>
+  <span class="en-line">Two-time Recipient of SMBU Academic Scholarship</span>
+</div>
 
-    **Provincial Second Prize in the Blue Bridge Cup Python Competition (Individual)**
+<div class="zh-en-block">
+  - 英语四级<br>
+  <span class="en-line">CET-4 Certificate (College English Test, Band 4)</span>
+</div>
 
-- 深圳北理莫斯科大学奖学金两次
+<div class="zh-en-block">
+  - 蓝桥杯艺术赛（在投）<br>
+  <span class="en-line">Blue Bridge Cup Art Competition (Under Review)</span>
+</div>
 
-    **Two-time Recipient of SMBU Academic Scholarship**
-
-- 英语四级
-
-    **CET-4 Certificate (College English Test, Band 4)**
-
-- 蓝桥杯艺术赛（在投）
-
-  **Blue Bridge Cup Art Competition (Under Review)**
-
-- 全国大学生物联网设计竞赛（在投）
-
-  **National University Student Internet of Things Design Competition (Under Review)**
+<div class="zh-en-block">
+  - 全国大学生物联网设计竞赛（在投）<br>
+  <span class="en-line">National University Student Internet of Things Design Competition (Under Review)</span>
+</div>
   
-- 中国大学生程序设计竞赛CCPC（在投）
+<div class="zh-en-block">
+  - 中国大学生程序设计竞赛 CCPC（在投）<br>
+  <span class="en-line">China Collegiate Programming Contest (CCPC) (Under Review)</span>
+</div>
 
-  **China Collegiate Programming Contest (CCPC) (Under Review)**
-
-- 全国算法精英大赛（在投）
-
-  **National Algorithm Elite Competition (Under Review)**
+<div class="zh-en-block">
+  - 全国算法精英大赛（在投）<br>
+  <span class="en-line">National Algorithm Elite Competition (Under Review)</span>
+</div>
 
   
 - ......
@@ -103,13 +105,15 @@ layout: homepage
 
 ## 社团活动 Extracurricular Activities
 
-- 深圳北理莫斯科大学新媒体中心设计部部长
+<div class="zh-en-block">
+  - 深圳北理莫斯科大学新媒体中心设计部部长<br>
+  <span class="en-line">Head of Design Department, New Media Center, Shenzhen MSU-BIT University</span>
+</div>
   
-    **Head of Design Department, New Media Center, Shenzhen MSU-BIT University**
-  
-- 深圳北理莫斯科大学数学建模协会骨干成员
-  
-    **Core Member, Mathematical Modeling Association, Shenzhen MSU-BIT University**
+<div class="zh-en-block">
+  - 深圳北理莫斯科大学数学建模协会骨干成员<br>
+  <span class="en-line">Core Member, Mathematical Modeling Association, Shenzhen MSU-BIT University</span>
+</div>
 
 ## 项目 Projects
 
