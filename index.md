@@ -1,6 +1,16 @@
 ---
 layout: homepage
 ---
+<div class="zh-en-block">
+  深度学习、机器学习、算法编程、平面设计<br>
+  <span class="en-line">Deep learning, machine learning, algorithm programming, graphic design</span>
+</div>
+
+<div class="zh-en-block">
+  莫斯科大学本科在读，GPA 3.86<br>
+  <span class="en-line">Undergraduate at Lomonosov Moscow State University, GPA 3.86</span>
+</div>
+
 ## 方向特长 Interests
 
 深度学习、机器学习、算法编程、平面设计
