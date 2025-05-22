@@ -4,29 +4,48 @@
 @import "minimal-light";
 /*背景背景背景背景背景背景背景背景背景*/
 body {
-  margin: 0;
-  padding: 0;
-  background: linear-gradient(-45deg, #fceabb, #f8b500, #d6ae7b, #eacda3);
-  background-size: 400% 400%;
-  animation: gradientMove 15s ease infinite;
+  position: relative;
+  background: #f9f9f9; /* 主背景基色 */
+  overflow-x: hidden;
 }
 
-@keyframes gradientMove {
+/* 伪元素背景渐变圆 */
+body::before {
+  content: '';
+  position: fixed;
+  top: -100px;
+  left: -100px;
+  width: 200vw;
+  height: 200vh;
+  background: radial-gradient(circle at 30% 30%, rgba(255, 204, 255, 0.5), transparent 60%),
+              radial-gradient(circle at 70% 60%, rgba(173, 216, 230, 0.4), transparent 70%),
+              radial-gradient(circle at 50% 80%, rgba(255, 239, 186, 0.4), transparent 60%);
+  z-index: -1;
+  animation: floatGradient 30s ease-in-out infinite;
+  background-blend-mode: screen;
+  filter: blur(60px);
+  pointer-events: none;
+}
+
+/* 动画控制：缓慢漂移 */
+@keyframes floatGradient {
   0% {
-    background-position: 0% 50%;
+    transform: translate(0, 0);
   }
   50% {
-    background-position: 100% 50%;
+    transform: translate(-50px, -30px);
   }
   100% {
-    background-position: 0% 50%;
+    transform: translate(0, 0);
   }
 }
 .wrapper {
   background-color: rgba(255, 255, 255, 0.95);
   padding: 2rem;
   border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.03);
 }
+
 /*背景背景背景背景背景背景背景背景背景*/
 .compact-pair {
   line-height: 1.3;
