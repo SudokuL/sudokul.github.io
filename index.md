@@ -3,6 +3,7 @@ layout: homepage
 ---
 
 #  刘瑞达⭐Ruida Liu
+<hr class="gradient-line">
 
 ## 方向特长 Interests
 
