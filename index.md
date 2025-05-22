@@ -1,6 +1,10 @@
 ---
 layout: homepage
 ---
+<div class="gradient-bubble" style="top: 10%; left: 20%;"></div>
+<div class="gradient-bubble"></div>
+<div class="gradient-bubble"></div>
+
 ## 方向特长 Interests
 
 <div class="zh-en-block">
