@@ -215,3 +215,22 @@ img.fancy-image:hover {
   line-height: 1.2;
 }
 
+.pretty-line {
+  border: none;
+  border-top: 1px solid #ccc;
+  margin: 2em 0;
+}
+
+.gradient-line {
+  border: none;
+  height: 2px;
+  background: linear-gradient(to right, #bbb, #eee, #bbb);
+  margin: 2em 0;
+}
+
+.fancy-divider {
+  text-align: center;
+  font-size: 1.2em;
+  color: #aaa;
+  margin: 2em 0;
+}
