@@ -95,15 +95,19 @@ Wechat: SodokuL  ,  Email: soduku645@gmail.com
   <span class="en-line">CET-4 Certificate (College English Test, Band 4)</span>
 </div>
 
+
 <div class="zh-en-block">
   🎨 蓝桥杯艺术赛（在投）<br>
   <span class="en-line">Blue Bridge Cup Art Competition (Under Review)</span>
 </div>
 
+
 <div class="zh-en-block">
   🌐 全国大学生物联网设计竞赛（在投）<br>
   <span class="en-line">National University Student Internet of Things Design Competition (Under Review)</span>
 </div>
+
+<!--
 
 <div class="zh-en-block">
   🧮 中国大学生程序设计竞赛 CCPC（在投）<br>
@@ -115,6 +119,7 @@ Wechat: SodokuL  ,  Email: soduku645@gmail.com
   <span class="en-line">National Algorithm Elite Competition (Under Review)</span>
 </div>
 
+    -->
   
   .........
 
