@@ -6,7 +6,7 @@
 body {
   position: relative;
   background: #ffffff;
-  overflow: hidden;
+  /*overflow: hidden;*/
 }
 
 /* 多个渐变气泡容器 */
@@ -19,6 +19,7 @@ body {
   border-radius: 50%;
   animation: floatBubble 20s infinite ease-in-out;
   pointer-events: none;
+  position: fixed;
   z-index: -1;
 }
 
