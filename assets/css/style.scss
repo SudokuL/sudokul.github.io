@@ -3,26 +3,6 @@
 
 @import "minimal-light";
 /*背景*/
-body {
-  margin: 0;
-  padding: 0;
-  background: linear-gradient(-45deg, #fdfdfd, #f2f4f8, #e8ecf0, #fdfdfd);
-  background-size: 400% 400%;
-  animation: gradientMove 15s ease infinite;
-}
-
-@keyframes gradientMove {
-  0% {
-    background-position: 0% 50%;
-  }
-  50% {
-    background-position: 100% 50%;
-  }
-  100% {
-    background-position: 0% 50%;
-  }
-}
-
 
 /*背景*/
 .compact-pair {
