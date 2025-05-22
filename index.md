@@ -45,42 +45,47 @@ layout: homepage
 ## 奖项 Honors
 
 <div class="zh-en-block">
-  - 全球校园人工智能算法精英大赛算法专项赛省二等奖，国家三等奖<br>
-  <span class="en-line">Second Prize in Guangdong Province and Third Prize Nationally in the Global Campus AI Algorithm Elite Competition – Algorithm Track</span>
+  🥈 全球校园人工智能算法精英大赛算法专项赛广东省二等奖<br>
+  <span class="en-line">Second Prize in Guangdong Province in the Global Campus AI Algorithm Elite Competition – Algorithm Track</span>
 </div>
 
 <div class="zh-en-block">
-  - 蓝桥杯软件赛个人赛 Python 广东省赛省二等奖<br>
+  🥉 全球校园人工智能算法精英大赛算法专项赛国家三等奖<br>
+  <span class="en-line">Third Prize Nationally in the Global Campus AI Algorithm Elite Competition – Algorithm Track</span>
+</div>
+
+<div class="zh-en-block">
+  💻 蓝桥杯软件赛个人赛 Python 广东省赛二等奖<br>
   <span class="en-line">Provincial Second Prize in the Blue Bridge Cup Python Competition (Individual)</span>
 </div>
 
 <div class="zh-en-block">
-  - 深圳北理莫斯科大学奖学金两次<br>
+  🎓 深圳北理莫斯科大学奖学金两次<br>
   <span class="en-line">Two-time Recipient of SMBU Academic Scholarship</span>
 </div>
 
 <div class="zh-en-block">
-  - 英语四级<br>
+  📘 英语四级<br>
   <span class="en-line">CET-4 Certificate (College English Test, Band 4)</span>
 </div>
 
 <div class="zh-en-block">
-  - 蓝桥杯艺术赛（在投）<br>
+  🎨 蓝桥杯艺术赛（在投）<br>
   <span class="en-line">Blue Bridge Cup Art Competition (Under Review)</span>
 </div>
 
 <div class="zh-en-block">
-  - 全国大学生物联网设计竞赛（在投）<br>
+  🌐 全国大学生物联网设计竞赛（在投）<br>
   <span class="en-line">National University Student Internet of Things Design Competition (Under Review)</span>
 </div>
-  
+
 <div class="zh-en-block">
-  - 中国大学生程序设计竞赛 CCPC（在投）<br>
+  🧮 中国大学生程序设计竞赛 CCPC（在投）<br>
   <span class="en-line">China Collegiate Programming Contest (CCPC) (Under Review)</span>
 </div>
 
 <div class="zh-en-block">
-  - 全国算法精英大赛（在投）<br>
+  🧠 全国算法精英大赛（在投）<br>
   <span class="en-line">National Algorithm Elite Competition (Under Review)</span>
 </div>
 
@@ -110,12 +115,12 @@ layout: homepage
 ## 社团活动 Extracurricular Activities
 
 <div class="zh-en-block">
-  - 深圳北理莫斯科大学新媒体中心设计部部长<br>
+  🎨 深圳北理莫斯科大学新媒体中心设计部部长<br>
   <span class="en-line">Head of Design Department, New Media Center, Shenzhen MSU-BIT University</span>
 </div>
-  
+
 <div class="zh-en-block">
-  - 深圳北理莫斯科大学数学建模协会骨干成员<br>
+  📐 深圳北理莫斯科大学数学建模协会骨干成员<br>
   <span class="en-line">Core Member, Mathematical Modeling Association, Shenzhen MSU-BIT University</span>
 </div>
 
