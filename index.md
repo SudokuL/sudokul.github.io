@@ -85,7 +85,7 @@ layout: homepage
 </div>
 
   
-- ......
+  .........
 
 
 
@@ -101,7 +101,8 @@ layout: homepage
   </div>
 </div>
 
-————————————————————————————————————————————————————————
+<hr class="pretty-line"><!--分隔线！-->
+
 
 ## 社团活动 Extracurricular Activities
 
