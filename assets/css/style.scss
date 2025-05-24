@@ -3,6 +3,33 @@
 
 @import "minimal-light";
 /*背景*/
+/* ✅ 强制亮色模式，覆盖 prefers-color-scheme: dark 的情况 */
+@media (prefers-color-scheme: dark) {
+  body {
+    color-scheme: light;
+    background-color: #ffffff !important;
+    color: #000000 !important;
+  }
+
+  .wrapper {
+    background-color: #ffffff !important;
+    color: #000000 !important;
+  }
+
+  /* 如果你用了卡片样式等，也可以加上 */
+  .notion-card {
+    background-color: #fff !important;
+    color: #000 !important;
+  }
+
+  .en-line {
+    color: #444 !important;
+  }
+
+  img {
+    filter: none !important;
+  }
+}
 
 /*背景*/
 @media (max-width: 600px) {
