@@ -7,6 +7,8 @@ layout: homepage
   <img src="./MYDATA/LOGO1.png" alt="我的LOGO">
 </div>
 
+欢迎联系我！
+
 Wechat: SodokuL  ,  Email: soduku645@gmail.com
   
     
