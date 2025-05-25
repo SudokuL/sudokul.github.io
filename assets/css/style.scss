@@ -5,17 +5,19 @@
 /*背景*/
 /* ✅ 强制亮色模式，覆盖 prefers-color-scheme: dark 的情况 */
 .logo-banner {
-  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
   margin: 3em 0;
 }
 
 .logo-banner img {
-  width: 100%;
-  max-width: 480px;   /* ✅ 控制 LOGO 不会太大 */
+  width: 600px;       /* ✅ 强制固定宽度 */
+  max-width: 100%;
   height: auto;
   display: block;
-  margin: 0 auto;
 }
+
 
 
 @media (prefers-color-scheme: dark) {
