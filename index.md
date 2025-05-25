@@ -3,8 +3,11 @@ layout: homepage
 ---
 
 #  刘瑞达⭐Ruida Liu
+<div class="photo-grid">
+  <img src="./MYDATA/LOGO.png" alt="LRD">
+</div>  
 Wechat: SodokuL  ,  Email: soduku645@gmail.com
-    
+  
     
 <hr class="gradient-line">
 
