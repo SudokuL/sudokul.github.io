@@ -4,7 +4,7 @@ layout: homepage
 
 #  刘瑞达⭐Ruida Liu
 <div class="logo-banner">
-  <img src="./MYDATA/LOGO.png" alt="我的LOGO">
+  <img src="./MYDATA/LOGO1.png" alt="我的LOGO">
 </div>
 
 Wechat: SodokuL  ,  Email: soduku645@gmail.com
