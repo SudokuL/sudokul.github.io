@@ -200,6 +200,7 @@ Wechat: SodokuL  ,  Email: soduku645@gmail.com
 
 <div class="photo-grid">
   <img src="./MYDATA/青鸟计划.png" alt="体育局实习">
+  <img src="./MYDATA/招生办实习.png" alt="招生办实习">
 </div>
 
 {% include_relative _includes/publications.md %}
