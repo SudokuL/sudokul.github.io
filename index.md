@@ -185,6 +185,10 @@ Wechat: SodokuL  ,  Email: soduku645@gmail.com
   </a>
 </div>
 
+
+<hr class="pretty-line">
+
+
 ## 其他经历 Else
 
 
@@ -204,6 +208,10 @@ Wechat: SodokuL  ,  Email: soduku645@gmail.com
   <img src="./MYDATA/青鸟计划.png" alt="体育局实习">
   <img src="./MYDATA/招生办实习.jpg" alt="招生办实习">
 </div>
+
+
+<hr class="pretty-line">
+
 
 {% include_relative _includes/publications.md %}
 
