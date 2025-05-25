@@ -1,8 +1,6 @@
 ---
 layout: homepage
 ---
-
-#  刘瑞达⭐Ruida Liu
 <div class="logo-banner">
   <img src="./MYDATA/LOGO1.png" alt="我的LOGO">
 </div>
