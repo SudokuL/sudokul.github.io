@@ -6,14 +6,17 @@
 /* ✅ 强制亮色模式，覆盖 prefers-color-scheme: dark 的情况 */
 .logo-banner {
   text-align: center;
-  margin: 2em 0;
+  margin: 3em 0;
 }
 
 .logo-banner img {
-  max-width: 200px;  /* 你可以根据实际调整大小 */
+  width: 100%;
+  max-width: 480px;   /* ✅ 控制 LOGO 不会太大 */
   height: auto;
-  display: inline-block;
+  display: block;
+  margin: 0 auto;
 }
+
 
 @media (prefers-color-scheme: dark) {
   body {
