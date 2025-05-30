@@ -102,7 +102,7 @@ Wechat: SodokuL  ,  Email: soduku645@gmail.com
 
 
 <div class="zh-en-block">
-  🎨 蓝桥杯艺术赛（在投）<br>
+  🎨 蓝桥杯艺术设计赛静态海报（命题）赛道省赛一等奖（国赛仍在评）<br>
   <span class="en-line">Blue Bridge Cup Art Competition (Under Review)</span>
 </div>
 
