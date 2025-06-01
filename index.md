@@ -135,10 +135,12 @@ Wechat: SodokuL  ,  Email: soduku645@gmail.com
     <img src="./MYDATA/Jiangxuejin1.jpg" class="fancy-image">
     <img src="./MYDATA/sfjysss.png" class="fancy-image">
     <img src="./MYDATA/sfjysgs.png" class="fancy-image">
+    <img src="./MYDATA/奖学金二等.png" class="fancy-image">
     <!-- 再复制一轮，实现无缝衔接 -->
     <img src="./MYDATA/Jiangxuejin1.jpg" class="fancy-image">
     <img src="./MYDATA/sfjysss.png" class="fancy-image">
     <img src="./MYDATA/sfjysgs.png" class="fancy-image">
+    <img src="./MYDATA/奖学金二等.png" class="fancy-image">
   </div>
 </div>
 
