@@ -119,14 +119,15 @@ Wechat: SodokuL  ,  Email: soduku645@gmail.com
   <span class="en-line">China Collegiate Programming Contest (CCPC) (Under Review)</span>
 </div>
 
+    -->
+
 <div class="zh-en-block">
-  🧠 全国算法精英大赛（在投）<br>
+  🧠 全国算法精英大赛CCF CAT 省奖（仍在评奖）<br>
   <span class="en-line">National Algorithm Elite Competition (Under Review)</span>
 </div>
 
-    -->
+
   
-  .........
 
 
 
