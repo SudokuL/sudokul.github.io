@@ -81,17 +81,17 @@ Wechat: SodokuL  ,  Email: soduku645@gmail.com
 </div>
 
 <div class="zh-en-block">
-  💻 蓝桥杯软件赛个人赛 Python 广东省赛二等奖<br>
+  💻 蓝桥杯软件赛个人赛 Python B组广东省赛二等奖<br>
   <span class="en-line">Provincial Second Prize in the Blue Bridge Cup Python Competition (Individual)</span>
 </div>
 
 <div class="zh-en-block">
-  🎨 蓝桥杯艺术设计赛静态海报（命题）赛道国赛三等奖<br>
+  🎨 蓝桥杯艺术设计赛静态海报（命题）赛道国赛三等奖（队长）<br>
   <span class="en-line">Blue Bridge Cup Art Competition Third Prize Nationally</span>
 </div>
 
 <div class="zh-en-block">
-  🧠 全国算法精英大赛CCF CAT 省奖（仍在评奖）<br>
+  🧠 全国算法精英大赛CCF CAT 省奖（队长）（仍在评奖）<br>
   <span class="en-line">National Algorithm Elite Competition (Under Review)</span>
 </div>
 
@@ -100,13 +100,15 @@ Wechat: SodokuL  ,  Email: soduku645@gmail.com
   <span class="en-line">Two-time Recipient of SMBU Academic Scholarship</span>
 </div>
 
-<div class="zh-en-block">
-  📘 英语四级<br>
-  <span class="en-line">CET-4 Certificate (College English Test, Band 4)</span>
+<!--
+  <div class="zh-en-block">
+    📘 英语四级<br>
+    <span class="en-line">CET-4 Certificate (College English Test, Band 4)</span>
 </div>
-
+ -->
+ 
 <div class="zh-en-block">
-  🌐 全国大学生物联网设计竞赛（在投）<br>
+  🌐 全国大学生物联网设计竞赛（队长）（在投）<br>
   <span class="en-line">National University Student Internet of Things Design Competition (Under Review)</span>
 </div>
 
