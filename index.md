@@ -48,11 +48,11 @@ Wechat: SodokuL  ,  Email: soduku645@gmail.com
 ## 论文 Publications
 
 <div class="card-grid">
-  <a href="https://mp.weixin.qq.com/s/UUB207kcCMzUx-u4nrESOg" class="notion-card" target="_blank">
+  <a href="https://link.springer.com/chapter/10.1007/978-981-95-0030-7_4" class="notion-card" target="_blank">
     <img src="./MYDATA/屏幕截图 2025-05-22 120919.png" alt="论文" class="card-img">
     <div class="card-text">
       <h3>「CCF-C/ICIC2025/Oral/第二作者」SM-CBNet: A Speech-Based Parkinson’s Disease Diagnosis Model with SMOTE–ENN and CNN+BiLSTM Integration</h3>
-      <p>预计六月可以检索</p>
+      <p>点击跳转到论文界面</p>
     </div>
   </a>
 </div>
