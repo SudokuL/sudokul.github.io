@@ -72,60 +72,66 @@ Wechat: SodokuL  ,  Email: soduku645@gmail.com
 
 <hr class="pretty-line">
 
+## 🏆 获奖荣誉 Awards & Honors
 
-## 奖项 Honors
+### 🥇 国家级奖项 National Awards
 
-### 名单内赛事-国奖🏆
+<div class="award-section">
+  <div class="zh-en-block highlight-award">
+    <strong>🥇 全国大学生物联网设计竞赛 · 国家一等奖</strong>（队长）<br>
+    <small>📅 2025.5-2025.9</small><br>
+    <span class="en-line"><strong>National University Student Internet of Things Design Competition (First Prize)</strong></span>
+  </div>
 
-<div class="zh-en-block">
-  🥇 全国大学生物联网设计竞赛   国家一等奖（队长）  2025.5-2025.9<br>
-  <span class="en-line">National University Student Internet of Things Design Competition (First Prize)</span>
-</div>
-
-<div class="zh-en-block">
-  🥉 蓝桥杯艺术设计赛  静态海报（命题）赛道   国赛三等奖（队长）  2025.2-2025.5<br>
-  <span class="en-line">Blue Bridge Cup Art Competition Third Prize Nationally</span>
-</div>
-
-<div class="zh-en-block">
-  🥉 全球校园人工智能算法精英大赛算法专项赛   国家三等奖   2024.12-2025.1<br>
-  <span class="en-line">Third Prize Nationally in the Global Campus AI Algorithm Elite Competition – Algorithm Track</span>
-</div>
-
-### 名单内赛事-省奖🏆
-
-<div class="zh-en-block">
-  💻 蓝桥杯软件赛个人赛 Python B组   广东省赛二等奖   2025.4<br>
-  <span class="en-line">Provincial Second Prize in the Blue Bridge Cup Python Competition (Individual)</span>
-</div>
-
-### 其他奖项🏆
-
-<div class="zh-en-block">
-  🧠 全国算法精英大赛CCF CAT 全国Top30%（队长）  2025.5<br>
-  <span class="en-line">National Algorithm Elite Competition Top 30%</span>
-</div>
-
-<div class="zh-en-block">
-  🎓 深圳北理莫斯科大学  奖学金两次<br>
-  <span class="en-line">Two-time Recipient of SMBU Academic Scholarship</span>
-</div>
-
-<!--
   <div class="zh-en-block">
-    📘 英语四级<br>
-    <span class="en-line">CET-4 Certificate (College English Test, Band 4)</span>
+    🥉 蓝桥杯艺术设计赛 · 静态海报（命题）赛道 · 国赛三等奖（队长）<br>
+    <small>📅 2025.2-2025.5</small><br>
+    <span class="en-line">Blue Bridge Cup Art Competition Third Prize Nationally</span>
+  </div>
+
+  <div class="zh-en-block">
+    🥉 全球校园人工智能算法精英大赛算法专项赛 · 国家三等奖<br>
+    <small>📅 2024.12-2025.1</small><br>
+    <span class="en-line">Third Prize Nationally in the Global Campus AI Algorithm Elite Competition – Algorithm Track</span>
+  </div>
 </div>
- -->
- 
+
+### 🏅 省级奖项 Provincial Awards
+
+<div class="award-section">
+  <div class="zh-en-block">
+    💻 蓝桥杯软件赛个人赛 Python B组 · 广东省赛二等奖<br>
+    <small>📅 2025.4</small><br>
+    <span class="en-line">Provincial Second Prize in the Blue Bridge Cup Python Competition (Individual)</span>
+  </div>
+</div>
+
+### 🎖️ 其他荣誉 Other Honors
+
+<div class="award-section">
+  <div class="zh-en-block">
+    🧠 全国算法精英大赛CCF CAT · 全国Top30%（队长）<br>
+    <small>📅 2025.5</small><br>
+    <span class="en-line">National Algorithm Elite Competition Top 30%</span>
+  </div>
+
+  <div class="zh-en-block">
+    🎓 深圳北理莫斯科大学 · 奖学金两次<br>
+    <span class="en-line">Two-time Recipient of SMBU Academic Scholarship</span>
+  </div>
+</div>
+
 <!--
+<div class="zh-en-block">
+  📘 英语四级<br>
+  <span class="en-line">CET-4 Certificate (College English Test, Band 4)</span>
+</div>
 
 <div class="zh-en-block">
   🧮 中国大学生程序设计竞赛 CCPC（在投）<br>
   <span class="en-line">China Collegiate Programming Contest (CCPC) (Under Review)</span>
 </div>
-
-    -->
+-->
 
 
 

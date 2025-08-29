@@ -48,9 +48,69 @@
 }
 
 /*背景*/
+
+/* 奖项部分样式 */
+.award-section {
+  margin-bottom: 2em;
+}
+
+.award-section .zh-en-block {
+  margin-bottom: 1.5em;
+  padding: 1em;
+  border-left: 3px solid #e0e0e0;
+  background-color: #fafafa;
+  border-radius: 0 8px 8px 0;
+  transition: all 0.3s ease;
+}
+
+.award-section .zh-en-block:hover {
+  border-left-color: #007acc;
+  background-color: #f0f8ff;
+  transform: translateX(5px);
+}
+
+.highlight-award {
+  border-left-color: #ffd700 !important;
+  background-color: #fffbf0 !important;
+  box-shadow: 0 2px 8px rgba(255, 215, 0, 0.2);
+}
+
+.highlight-award:hover {
+  border-left-color: #ffb300 !important;
+  background-color: #fff8e1 !important;
+  box-shadow: 0 4px 12px rgba(255, 215, 0, 0.3);
+}
+
+.award-section small {
+  color: #666;
+  font-size: 0.85em;
+  font-style: italic;
+}
+
+@media (prefers-color-scheme: dark) {
+  .award-section .zh-en-block {
+    background-color: #f9f9f9 !important;
+    border-left-color: #ccc !important;
+  }
+  
+  .highlight-award {
+    background-color: #fffbf0 !important;
+    border-left-color: #ffd700 !important;
+  }
+  
+  .award-section small {
+    color: #555 !important;
+  }
+}
+
 @media (max-width: 600px) {
   .photo-grid img {
     max-width: 100%;
+  }
+  
+  .award-section .zh-en-block {
+    padding: 0.8em;
+    margin-bottom: 1.2em;
   }
 }
 
