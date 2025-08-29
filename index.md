@@ -160,6 +160,17 @@ layout: homepage
 
 <div class="card-grid">
   <a href="https://mp.weixin.qq.com/s/UUB207kcCMzUx-u4nrESOg" class="notion-card" target="_blank">
+    <img src="./MYDATA/麦粒.png" alt="麦粒AI+AR眼镜" class="card-img">
+    <div class="card-text">
+      <h3>「物联网大赛国家一等奖项目」麦粒AI+AR眼镜，您的私人营养管家</h3>
+      <p>点击跳转至公众号推文</p>
+    </div>
+  </a>
+</div>
+
+
+<div class="card-grid">
+  <a href="https://mp.weixin.qq.com/s/UUB207kcCMzUx-u4nrESOg" class="notion-card" target="_blank">
     <img src="./MYDATA/画板 1 副本@4x.png" alt="会徽" class="card-img">
     <div class="card-text">
       <h3>「独立原创」设计了深圳北理莫斯科大学学生会会徽，被使用至今</h3>
