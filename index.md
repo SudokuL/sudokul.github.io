@@ -201,20 +201,23 @@ Wechat: SodokuL  ,  Email: soduku645@gmail.com
   
   <div class="zh-en-block">
     🎓 <strong>研究助理 (Research Assistant)</strong> <small>2025年5月至今</small><br>
-    深圳北理莫斯科大学人工智能研究院情感智能与普适计算研究中心。负责科研项目辅助，人工智能项目研究，数据分析与处理，学术论文撰写等工作。<br>
-    <span class="en-line">Research Assistant at the Center for Affective Intelligence and Ubiquitous Computing, AI Institute, Shenzhen MSU-BIT University. Responsibilities include assisting with research projects, conducting artificial intelligence research, data analysis and processing, and academic paper writing.</span>
+    深圳北理莫斯科大学人工智能研究院情感智能与普适计算研究中心<br>
+    负责科研项目辅助，人工智能算法研究，数据处理与分析，学术论文撰写等工作。<br>
+    <span class="en-line">Research Assistant at the Center for Affective Intelligence and Ubiquitous Computing, AI Institute, Shenzhen MSU-BIT University. Responsibilities include assisting with research projects, AI algorithm research, data processing and analysis, and academic paper writing.</span>
   </div>
 
   <div class="zh-en-block">
     📌 <strong>招生助理 (Admissions Assistant)</strong> <small>2023年9月至2024年2月</small><br>
     深圳北理莫斯科大学招生办公室<br>
-    <span class="en-line">Worked at the Admissions Office of Shenzhen MSU-BIT University. Responsibilities included leading admissions presentations and organizing enrollment data.</span>
+    主持招生宣讲会议，招生信息数据整理，协助招生政策制定，学生咨询接待等工作。<br>
+    <span class="en-line">Worked at the Admissions Office of Shenzhen MSU-BIT University. Responsibilities included leading admissions presentations, organizing enrollment data, assisting in admission policy development, and student consultation services.</span>
   </div>
 
   <div class="zh-en-block">
     🏃 <strong>智能体育宣传推广助理 (Smart Sports Promotion Assistant)</strong> <small>2024年6月至8月</small><br>
     临沂市体育局实习<br>
-    <span class="en-line">Interned at the Linyi Municipal Sports Bureau. Responsible for managing the backend of the city's sports mini program, maintaining the database, and daily debugging.</span>
+    管理市体育小程序后台，日常数据库维护与Debug，体育活动宣传推广，用户数据分析等工作。<br>
+    <span class="en-line">Interned at the Linyi Municipal Sports Bureau. Responsible for managing the backend of the city's sports mini program, database maintenance and debugging, sports event promotion, and user data analysis.</span>
   </div>
 </div>
 
