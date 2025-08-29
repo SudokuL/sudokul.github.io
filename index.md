@@ -68,6 +68,15 @@ layout: homepage
   </span>
   </div>
 
+<div class="card-grid">
+  <a href="https://arxiv.org/abs/2507.18026" class="notion-card" target="_blank">
+    <img src="./MYDATA/屏幕截图 2025-05-22 120919.png" alt="论文" class="card-img">
+    <div class="card-text">
+      <h3>「ACM在投/第四作者」Emotion Recognition from Skeleton Data: A Comprehensive Survey</h3>
+      <p>点击跳转到论文界面</p>
+    </div>
+  </a>
+</div>
 
 
 <hr class="pretty-line">
