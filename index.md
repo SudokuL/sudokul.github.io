@@ -160,7 +160,7 @@ layout: homepage
 
 <div class="card-grid">
   <a href="https://mp.weixin.qq.com/s/UUB207kcCMzUx-u4nrESOg" class="notion-card" target="_blank">
-    <img src="./MYDATA/麦粒.png" alt="麦粒AI+AR眼镜" class="card-img">
+    <img src="./MYDATA/麦粒眼镜.png" alt="麦粒AI+AR眼镜" class="card-img">
     <div class="card-text">
       <h3>「物联网大赛国家一等奖项目」麦粒AI+AR眼镜，您的私人营养管家</h3>
       <p>点击跳转至公众号推文</p>
