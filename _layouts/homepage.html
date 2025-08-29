@@ -131,7 +131,10 @@
         headings.forEach(function(heading, index) {
           // Create unique ID for heading if it doesn't exist
           if (!heading.id) {
-            heading.id = 'heading-' + index;
+            // Generate ID from heading text, removing emojis and special characters
+            const cleanText = heading.textContent.replace(/[^\w\s\u4e00-\u9fff]/g, '').trim();
+            const words = cleanText.split(/\s+/);
+            heading.id = words.join('-').toLowerCase().replace(/[^a-z0-9\u4e00-\u9fff-]/g, '') || 'section-' + index;
           }
           
           // Create TOC item
@@ -175,16 +178,25 @@
           const tocLinks = document.querySelectorAll('#toc-list a');
           
           let currentSection = '';
-          const scrollPosition = window.scrollY + 100; // Offset for better UX
+          const scrollPosition = window.scrollY + window.innerHeight / 3; // Better offset for detection
+          
+          // Find the section that is currently most visible
+          let closestSection = null;
+          let closestDistance = Infinity;
           
           sections.forEach(section => {
             const sectionTop = section.offsetTop;
-            const sectionHeight = section.offsetHeight;
+            const distance = Math.abs(scrollPosition - sectionTop);
             
-            if (scrollPosition >= sectionTop && scrollPosition < sectionTop + sectionHeight + 200) {
-              currentSection = section.id;
+            if (distance < closestDistance && sectionTop <= scrollPosition + 200) {
+              closestDistance = distance;
+              closestSection = section;
             }
           });
+          
+          if (closestSection) {
+            currentSection = closestSection.id;
+          }
           
           // Remove active class from all links
           tocLinks.forEach(link => {
@@ -208,7 +220,10 @@
          });
          
          // Initial highlight on page load
-         setTimeout(highlightCurrentSection, 100);
+         setTimeout(function() {
+           console.log('TOC initialized, found sections:', document.querySelectorAll('h2[id]').length);
+           highlightCurrentSection();
+         }, 100);
       });
     </script>
     
