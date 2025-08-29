@@ -37,19 +37,11 @@
   </head>
   <body>
     <!-- Table of Contents -->
-    <nav id="toc" class="table-of-contents">
-      <div class="toc-header">目录</div>
-      <ul class="toc-list">
-        <li><a href="#interests" data-target="interests">方向特长</a></li>
-        <li><a href="#education" data-target="education">学业</a></li>
-        <li><a href="#publications" data-target="publications">论文</a></li>
-        <li><a href="#awards" data-target="awards">获奖荣誉</a></li>
-        <li><a href="#projects" data-target="projects">项目</a></li>
-        <li><a href="#internship" data-target="internship">实习经历</a></li>
-        <li><a href="#activities" data-target="activities">社团活动</a></li>
-      </ul>
+    <nav id="toc" class="toc-nav">
+      <div class="toc-title">目录</div>
+      <ul id="toc-list"></ul>
     </nav>
-
+    
     <div class="wrapper">
       <header>
         
@@ -127,126 +119,55 @@
     <!-- Table of Contents Script -->
     <script>
       document.addEventListener('DOMContentLoaded', function() {
-        // 获取所有目录链接
-        const tocLinks = document.querySelectorAll('.toc-list a');
+        const tocList = document.getElementById('toc-list');
+        const tocNav = document.getElementById('toc');
+        const headings = document.querySelectorAll('h2');
         
-        // 为每个链接添加点击事件
-        tocLinks.forEach(function(link) {
-          link.addEventListener('click', function(e) {
+        if (headings.length === 0) {
+          tocNav.style.display = 'none';
+          return;
+        }
+        
+        headings.forEach(function(heading, index) {
+          // Create unique ID for heading if it doesn't exist
+          if (!heading.id) {
+            heading.id = 'heading-' + index;
+          }
+          
+          // Create TOC item
+          const li = document.createElement('li');
+          const a = document.createElement('a');
+          a.href = '#' + heading.id;
+          a.textContent = heading.textContent.trim();
+          a.className = 'toc-link';
+          
+          // Smooth scroll on click
+          a.addEventListener('click', function(e) {
             e.preventDefault();
-            
-            // 获取目标元素
-            const targetId = this.getAttribute('data-target');
-            let targetElement = null;
-            
-            // 根据不同的标题查找对应的元素
-            if (targetId === 'interests') {
-              targetElement = document.querySelector('h2:contains("方向特长")');
-              if (!targetElement) {
-                const headings = document.querySelectorAll('h2');
-                for (let h of headings) {
-                  if (h.textContent.includes('方向特长') || h.textContent.includes('Interests')) {
-                    targetElement = h;
-                    break;
-                  }
-                }
-              }
-            } else if (targetId === 'education') {
-              const headings = document.querySelectorAll('h2');
-              for (let h of headings) {
-                if (h.textContent.includes('学业') || h.textContent.includes('Education')) {
-                  targetElement = h;
-                  break;
-                }
-              }
-            } else if (targetId === 'publications') {
-              const headings = document.querySelectorAll('h2');
-              for (let h of headings) {
-                if (h.textContent.includes('论文') || h.textContent.includes('Publications')) {
-                  targetElement = h;
-                  break;
-                }
-              }
-            } else if (targetId === 'awards') {
-              const headings = document.querySelectorAll('h2');
-              for (let h of headings) {
-                if (h.textContent.includes('获奖荣誉') || h.textContent.includes('Awards')) {
-                  targetElement = h;
-                  break;
-                }
-              }
-            } else if (targetId === 'projects') {
-              const headings = document.querySelectorAll('h2');
-              for (let h of headings) {
-                if (h.textContent.includes('项目') || h.textContent.includes('Projects')) {
-                  targetElement = h;
-                  break;
-                }
-              }
-            } else if (targetId === 'internship') {
-              const headings = document.querySelectorAll('h2');
-              for (let h of headings) {
-                if (h.textContent.includes('实习经历') || h.textContent.includes('Internship')) {
-                  targetElement = h;
-                  break;
-                }
-              }
-            } else if (targetId === 'activities') {
-              const headings = document.querySelectorAll('h2');
-              for (let h of headings) {
-                if (h.textContent.includes('社团活动') || h.textContent.includes('Extracurricular')) {
-                  targetElement = h;
-                  break;
-                }
-              }
-            }
-            
-            // 平滑滚动到目标元素
-            if (targetElement) {
-              targetElement.scrollIntoView({
+            const target = document.getElementById(heading.id);
+            if (target) {
+              target.scrollIntoView({
                 behavior: 'smooth',
                 block: 'start'
               });
             }
           });
+          
+          li.appendChild(a);
+          tocList.appendChild(li);
         });
         
-        // 滚动时高亮当前章节
-        window.addEventListener('scroll', function() {
-          const headings = document.querySelectorAll('h2');
-          const tocLinks = document.querySelectorAll('.toc-list a');
-          
-          let currentSection = '';
-          
-          headings.forEach(function(heading) {
-            const rect = heading.getBoundingClientRect();
-            if (rect.top <= 100) {
-              if (heading.textContent.includes('方向特长') || heading.textContent.includes('Interests')) {
-                currentSection = 'interests';
-              } else if (heading.textContent.includes('学业') || heading.textContent.includes('Education')) {
-                currentSection = 'education';
-              } else if (heading.textContent.includes('论文') || heading.textContent.includes('Publications')) {
-                currentSection = 'publications';
-              } else if (heading.textContent.includes('获奖荣誉') || heading.textContent.includes('Awards')) {
-                currentSection = 'awards';
-              } else if (heading.textContent.includes('项目') || heading.textContent.includes('Projects')) {
-                currentSection = 'projects';
-              } else if (heading.textContent.includes('实习经历') || heading.textContent.includes('Internship')) {
-                currentSection = 'internship';
-              } else if (heading.textContent.includes('社团活动') || heading.textContent.includes('Extracurricular')) {
-                currentSection = 'activities';
-              }
-            }
-          });
-          
-          // 更新活跃状态
-          tocLinks.forEach(function(link) {
-            link.classList.remove('active');
-            if (link.getAttribute('data-target') === currentSection) {
-              link.classList.add('active');
-            }
-          });
-        });
+        // Hide TOC on small screens
+        function checkScreenSize() {
+          if (window.innerWidth < 1200) {
+            tocNav.style.display = 'none';
+          } else {
+            tocNav.style.display = 'block';
+          }
+        }
+        
+        checkScreenSize();
+        window.addEventListener('resize', checkScreenSize);
       });
     </script>
     
