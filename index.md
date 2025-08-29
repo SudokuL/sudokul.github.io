@@ -84,7 +84,7 @@ Wechat: SodokuL  ,  Email: soduku645@gmail.com
   </div>
 
   <div class="zh-en-block">
-    🥉 蓝桥杯艺术设计赛 · 静态海报（命题）赛道 · 国赛三等奖（队长）<br>
+    🥉 蓝桥杯艺术设计赛 · 静态海报（命题）赛道 · 国家三等奖（队长）<br>
     <small>📅 2025.2-2025.5</small><br>
     <span class="en-line">Blue Bridge Cup Art Competition Third Prize Nationally</span>
   </div>
@@ -121,17 +121,24 @@ Wechat: SodokuL  ,  Email: soduku645@gmail.com
   </div>
 </div>
 
-<!--
-<div class="zh-en-block">
-  📘 英语四级<br>
-  <span class="en-line">CET-4 Certificate (College English Test, Band 4)</span>
-</div>
+### 🌐 语言能力 Language Proficiency
 
-<div class="zh-en-block">
-  🧮 中国大学生程序设计竞赛 CCPC（在投）<br>
-  <span class="en-line">China Collegiate Programming Contest (CCPC) (Under Review)</span>
-</div>
--->
+
+
+
+  <div class="zh-en-block">
+    🇬🇧 大学英语六级 CET6<br>
+    <span class="en-line">College English Test Band 6 (CET-6)</span>
+  </div>
+  <div class="zh-en-block">
+    🇷🇺 大学俄语公共四级 CRT4<br>
+    <span class="en-line">College Russian Test Band 4 (CRT-4)</span>
+  </div>
+
+
+
+
+
 
 
 
@@ -142,15 +149,15 @@ Wechat: SodokuL  ,  Email: soduku645@gmail.com
 
 <div class="loop-slider">
   <div class="slider-track">
-    <img src="./MYDATA/Jiangxuejin1.jpg" class="fancy-image">
     <img src="./MYDATA/sfjysss.png" class="fancy-image">
     <img src="./MYDATA/sfjysgs.png" class="fancy-image">
     <img src="./MYDATA/奖学金二等.png" class="fancy-image">
+    <img src="./MYDATA/蓝桥杯艺术国三.jpg" class="fancy-image">
     <!-- 再复制一轮，实现无缝衔接 -->
-    <img src="./MYDATA/Jiangxuejin1.jpg" class="fancy-image">
     <img src="./MYDATA/sfjysss.png" class="fancy-image">
     <img src="./MYDATA/sfjysgs.png" class="fancy-image">
     <img src="./MYDATA/奖学金二等.png" class="fancy-image">
+    <img src="./MYDATA/蓝桥杯艺术国三.jpg" class="fancy-image">
   </div>
 </div>
 
