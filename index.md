@@ -155,28 +155,6 @@ Wechat: SodokuL  ,  Email: soduku645@gmail.com
 
 
 
-## 社团活动 Extracurricular Activities
-
-
-
-<div class="zh-en-block">
-  🎨 深圳北理莫斯科大学新媒体中心设计部部长<br>
-  <span class="en-line">Head of Design Department, New Media Center, Shenzhen MSU-BIT University</span>
-</div>
-
-<div class="zh-en-block">
-  📐 深圳北理莫斯科大学数学建模协会骨干成员<br>
-  <span class="en-line">Core Member, Mathematical Modeling Association, Shenzhen MSU-BIT University</span>
-</div>
-
-<div class="photo-grid">
-  <img src="./MYDATA/新媒体聘书.png" alt="新媒体聘书">
-  <img src="./MYDATA/新媒体技术分享.png" alt="新媒体技术分享">
-</div>
-
-
-<hr class="pretty-line">
-
 
 ## 项目 Projects
 
@@ -194,10 +172,7 @@ Wechat: SodokuL  ,  Email: soduku645@gmail.com
 <hr class="pretty-line">
 
 
-## 其他经历 Else
-
-<div class="work-section">
-  <h4>💼 工作经历 Work Experience</h4>
+## 实习经历 Internship Experience
   
   <div class="zh-en-block">
     🎓 <strong>研究助理 (Research Assistant)</strong> <small>2025年5月至今</small><br>
@@ -225,6 +200,27 @@ Wechat: SodokuL  ,  Email: soduku645@gmail.com
 <div class="photo-grid">
   <img src="./MYDATA/青鸟计划.png" alt="体育局实习">
   <img src="./MYDATA/招生办实习.jpg" alt="招生办实习">
+</div>
+
+
+<hr class="pretty-line">
+
+## 社团活动 Extracurricular Activities
+
+
+<div class="zh-en-block">
+  🎨 深圳北理莫斯科大学新媒体中心设计部部长<br>
+  <span class="en-line">Head of Design Department, New Media Center, Shenzhen MSU-BIT University</span>
+</div>
+
+<div class="zh-en-block">
+  📐 深圳北理莫斯科大学数学建模协会骨干成员<br>
+  <span class="en-line">Core Member, Mathematical Modeling Association, Shenzhen MSU-BIT University</span>
+</div>
+
+<div class="photo-grid">
+  <img src="./MYDATA/新媒体聘书.png" alt="新媒体聘书">
+  <img src="./MYDATA/新媒体技术分享.png" alt="新媒体技术分享">
 </div>
 
 
