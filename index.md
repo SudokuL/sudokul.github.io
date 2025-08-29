@@ -199,22 +199,22 @@ Wechat: SodokuL  ,  Email: soduku645@gmail.com
 <div class="work-section">
   <h4>💼 工作经历 Work Experience</h4>
   
-  <div class="zh-en-block highlight-work">
-    🎓 <strong>研究助理</strong> <small>2025年5月至今</small><br>
-    深圳北理莫斯科大学人工智能研究院情感智能与普适计算研究中心
-    <span class="en-line">Research Assistant at AI Institute, Shenzhen MSU-BIT University</span>
+  <div class="zh-en-block">
+    🎓 <strong>研究助理 (Research Assistant)</strong> <small>2025年5月至今</small><br>
+    深圳北理莫斯科大学人工智能研究院情感智能与普适计算研究中心。负责科研项目辅助，人工智能项目研究，数据分析与处理，学术论文撰写等工作。<br>
+    <span class="en-line">Research Assistant at the Center for Affective Intelligence and Ubiquitous Computing, AI Institute, Shenzhen MSU-BIT University. Responsibilities include assisting with research projects, conducting artificial intelligence research, data analysis and processing, and academic paper writing.</span>
   </div>
 
   <div class="zh-en-block">
-    📌 <strong>招生助理</strong> <small>2023年9月至2024年2月</small><br>
-    深圳北理莫斯科大学招生办公室
-    <span class="en-line">Admissions Assistant at Shenzhen MSU-BIT University</span>
+    📌 <strong>招生助理 (Admissions Assistant)</strong> <small>2023年9月至2024年2月</small><br>
+    深圳北理莫斯科大学招生办公室<br>
+    <span class="en-line">Worked at the Admissions Office of Shenzhen MSU-BIT University. Responsibilities included leading admissions presentations and organizing enrollment data.</span>
   </div>
 
   <div class="zh-en-block">
-    🏃 <strong>智能体育推广助理</strong> <small>2024年6月至8月</small><br>
-    临沂市体育局实习
-    <span class="en-line">Smart Sports Promotion Assistant at Linyi Sports Bureau</span>
+    🏃 <strong>智能体育宣传推广助理 (Smart Sports Promotion Assistant)</strong> <small>2024年6月至8月</small><br>
+    临沂市体育局实习<br>
+    <span class="en-line">Interned at the Linyi Municipal Sports Bureau. Responsible for managing the backend of the city's sports mini program, maintaining the database, and daily debugging.</span>
   </div>
 </div>
 

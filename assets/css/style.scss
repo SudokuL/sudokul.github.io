@@ -56,51 +56,24 @@
 
 /* Work experience section styles */
 .work-section {
-  margin: 30px 0;
+  margin: 20px 0;
   
   h4 {
     color: #333;
-    margin-bottom: 20px;
+    margin-bottom: 15px;
     font-weight: 600;
-    border-bottom: 1px solid #e0e0e0;
-    padding-bottom: 10px;
-    font-size: 1.1em;
-  }
-  
-  .zh-en-block {
-    margin-bottom: 20px;
-    padding: 18px;
-    border-radius: 8px;
-    border-left: 3px solid #e0e0e0;
-    background-color: #fafafa;
-    transition: all 0.3s ease;
-    
-    strong {
-      font-size: 1.05em;
-      color: #333;
-    }
-    
-    small {
-      color: #666;
-      font-size: 0.85em;
-      margin-left: 8px;
-    }
-    
-    .en-line {
-      margin-top: 8px;
-      font-size: 0.95em;
-      line-height: 1.4;
-    }
+    border-bottom: 2px solid #e0e0e0;
+    padding-bottom: 8px;
   }
   
   .highlight-work {
-    border-left: 3px solid #2196F3;
-    background: linear-gradient(135deg, #f8f9ff 0%, #e8f4fd 100%);
-    box-shadow: 0 2px 6px rgba(33, 150, 243, 0.08);
+    border-left: 4px solid #2196F3;
+    background: linear-gradient(135deg, #f8f9ff 0%, #e3f2fd 100%);
+    box-shadow: 0 2px 8px rgba(33, 150, 243, 0.1);
     
     &:hover {
-      transform: translateY(-1px);
-      box-shadow: 0 4px 10px rgba(33, 150, 243, 0.15);
+      transform: translateY(-2px);
+      box-shadow: 0 4px 12px rgba(33, 150, 243, 0.2);
     }
   }
 }
