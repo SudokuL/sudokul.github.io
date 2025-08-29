@@ -75,28 +75,39 @@ Wechat: SodokuL  ,  Email: soduku645@gmail.com
 
 ## 奖项 Honors
 
+### 名单内赛事-国奖🏆
+
 <div class="zh-en-block">
-  🥉 全球校园人工智能算法精英大赛算法专项赛国家三等奖<br>
-  <span class="en-line">Third Prize Nationally in the Global Campus AI Algorithm Elite Competition – Algorithm Track</span>
+  🥇 全国大学生物联网设计竞赛   国家一等奖（队长）  2025.5-2025.9<br>
+  <span class="en-line">National University Student Internet of Things Design Competition (First Prize)</span>
 </div>
 
 <div class="zh-en-block">
-  💻 蓝桥杯软件赛个人赛 Python B组广东省赛二等奖<br>
-  <span class="en-line">Provincial Second Prize in the Blue Bridge Cup Python Competition (Individual)</span>
-</div>
-
-<div class="zh-en-block">
-  🎨 蓝桥杯艺术设计赛静态海报（命题）赛道国赛三等奖（队长）<br>
+  🥉 蓝桥杯艺术设计赛  静态海报（命题）赛道   国赛三等奖（队长）  2025.2-2025.5<br>
   <span class="en-line">Blue Bridge Cup Art Competition Third Prize Nationally</span>
 </div>
 
 <div class="zh-en-block">
-  🧠 全国算法精英大赛CCF CAT 省奖（队长）（仍在评奖）<br>
-  <span class="en-line">National Algorithm Elite Competition (Under Review)</span>
+  🥉 全球校园人工智能算法精英大赛算法专项赛   国家三等奖   2024.12-2025.1<br>
+  <span class="en-line">Third Prize Nationally in the Global Campus AI Algorithm Elite Competition – Algorithm Track</span>
+</div>
+
+### 名单内赛事-省奖🏆
+
+<div class="zh-en-block">
+  💻 蓝桥杯软件赛个人赛 Python B组   广东省赛二等奖   2025.4<br>
+  <span class="en-line">Provincial Second Prize in the Blue Bridge Cup Python Competition (Individual)</span>
+</div>
+
+### 其他奖项🏆
+
+<div class="zh-en-block">
+  🧠 全国算法精英大赛CCF CAT 全国Top30%（队长）  2025.5<br>
+  <span class="en-line">National Algorithm Elite Competition Top 30%</span>
 </div>
 
 <div class="zh-en-block">
-  🎓 深圳北理莫斯科大学奖学金两次<br>
+  🎓 深圳北理莫斯科大学  奖学金两次<br>
   <span class="en-line">Two-time Recipient of SMBU Academic Scholarship</span>
 </div>
 
@@ -107,11 +118,6 @@ Wechat: SodokuL  ,  Email: soduku645@gmail.com
 </div>
  -->
  
-<div class="zh-en-block">
-  🌐 全国大学生物联网设计竞赛（队长）（在投）<br>
-  <span class="en-line">National University Student Internet of Things Design Competition (Under Review)</span>
-</div>
-
 <!--
 
 <div class="zh-en-block">
