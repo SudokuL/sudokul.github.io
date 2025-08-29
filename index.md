@@ -8,12 +8,12 @@ layout: homepage
 # Ruida Liu（刘瑞达）
 欢迎联系我！
 
-Wechat: SodokuL  ,  Email: soduku645@gmail.com
+✉️Email: soduku645@gmail.com
   
     
 <hr class="gradient-line">
 
-## 方向特长 Interests
+## 🎯 方向特长 Interests
 
 <div class="zh-en-block">
   深度学习、机器学习、算法编程、平面设计<br>
@@ -23,7 +23,7 @@ Wechat: SodokuL  ,  Email: soduku645@gmail.com
 <hr class="pretty-line">
 
 
-## 学业 Education
+## 🎓 学业 Education
 
 <div class="zh-en-block">
   🏫深北莫北理莫斯科大学 — <a href="https://www.smbu.edu.cn/xsjg/jssxykzx/yxjs.htm">计算数学与控制系</a> 本科在读 2023-2027（软科排名106）GPA 3.86/4 Top15%<br>
@@ -45,7 +45,7 @@ Wechat: SodokuL  ,  Email: soduku645@gmail.com
 <hr class="pretty-line">
 
 
-## 论文 Publications
+## 📚 论文 Publications
 
 <div class="card-grid">
   <a href="https://link.springer.com/chapter/10.1007/978-981-95-0030-7_4" class="notion-card" target="_blank">
@@ -156,7 +156,7 @@ Wechat: SodokuL  ,  Email: soduku645@gmail.com
 
 
 
-## 项目 Projects
+## 💻 项目 Projects
 
 <div class="card-grid">
   <a href="https://mp.weixin.qq.com/s/UUB207kcCMzUx-u4nrESOg" class="notion-card" target="_blank">
@@ -172,7 +172,7 @@ Wechat: SodokuL  ,  Email: soduku645@gmail.com
 <hr class="pretty-line">
 
 
-## 实习经历 Internship Experience
+## 💼 实习经历 Internship Experience
   
   <div class="zh-en-block">
     🎓 <strong>研究助理 (Research Assistant)</strong> <small>2025年5月至今</small><br>
@@ -204,7 +204,7 @@ Wechat: SodokuL  ,  Email: soduku645@gmail.com
 
 <hr class="pretty-line">
 
-## 社团活动 Extracurricular Activities
+## 🎭 社团活动 Extracurricular Activities
 
 
 <div class="zh-en-block">
