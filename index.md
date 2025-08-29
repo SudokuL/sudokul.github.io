@@ -194,7 +194,6 @@ Wechat: SodokuL  ,  Email: soduku645@gmail.com
     管理市体育小程序后台，日常数据库维护与Debug，体育活动宣传推广，用户数据分析等工作。<br>
     <span class="en-line">Interned at the Linyi Municipal Sports Bureau. Responsible for managing the backend of the city's sports mini program, database maintenance and debugging, sports event promotion, and user data analysis.</span>
   </div>
-</div>
 
 
 <div class="photo-grid">
