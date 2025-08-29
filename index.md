@@ -38,8 +38,8 @@ Wechat: SodokuL  ,  Email: soduku645@gmail.com
 
 
 <div class="zh-en-block">
-  🧑‍🏫我现在师从深圳北理莫斯科大学<a href="https://ai.smbu.edu.cn/info/1251/1881.html">曾润浩教授</a>，任职研究助理(RA)<br>
-  <span class="en-line">Currently studying under <a href="https://zengrunhao.com/index.html">Professor Runhao Zeng</a>, Shenzhen MSU-BIT University, serving as a Research Assistant (RA).</span>
+  🧑‍🏫我现在师从深圳北理莫斯科大学人工智能研究院<a href="https://ai.smbu.edu.cn/info/1251/1881.html">曾润浩教授</a>，任职研究助理(RA)<br>
+  <span class="en-line">Currently studying under <a href="https://zengrunhao.com/index.html">Professor Runhao Zeng</a>, Shenzhen MSU-BIT University, Artificial Intelligence Institute, serving as a Research Assistant (RA).</span>
 </div>
 
 <hr class="pretty-line">
@@ -74,7 +74,7 @@ Wechat: SodokuL  ,  Email: soduku645@gmail.com
 
 ## 🏆 获奖荣誉 Awards & Honors
 
-### 🥇 国家级奖项 National Awards
+### 🥇 （名单内）国家级奖项 National Awards
 
 <div class="award-section">
   <div class="zh-en-block highlight-award">
@@ -96,7 +96,7 @@ Wechat: SodokuL  ,  Email: soduku645@gmail.com
   </div>
 </div>
 
-### 🏅 省级奖项 Provincial Awards
+### 🏅 （名单内）省级奖项 Provincial Awards
 
 <div class="award-section">
   <div class="zh-en-block">
@@ -119,32 +119,19 @@ Wechat: SodokuL  ,  Email: soduku645@gmail.com
     🎓 深圳北理莫斯科大学 · 奖学金两次<br>
     <span class="en-line">Two-time Recipient of SMBU Academic Scholarship</span>
   </div>
+
 </div>
 
 ### 🌐 语言能力 Language Proficiency
 
-
-
-
   <div class="zh-en-block">
-    🇬🇧 大学英语六级 CET6<br>
+    ✅ 大学英语六级 CET6<br>
     <span class="en-line">College English Test Band 6 (CET-6)</span>
   </div>
   <div class="zh-en-block">
-    🇷🇺 大学俄语公共四级 CRT4<br>
+    ✅ 大学俄语公共四级 CRT4<br>
     <span class="en-line">College Russian Test Band 4 (CRT-4)</span>
   </div>
-
-
-
-
-
-
-
-
-
-  
-
 
 
 <div class="loop-slider">
@@ -209,16 +196,26 @@ Wechat: SodokuL  ,  Email: soduku645@gmail.com
 
 ## 其他经历 Else
 
+<div class="work-section">
+  <h4>💼 工作经历 Work Experience</h4>
+  
+  <div class="zh-en-block highlight-work">
+    🎓 <strong>研究助理 (Research Assistant)</strong> <small>2025年5月至今</small><br>
+    深圳北理莫斯科大学人工智能研究院情感智能与普适计算研究中心<br>
+    <span class="en-line">Research Assistant at the Center for Affective Intelligence and Ubiquitous Computing, AI Institute, Shenzhen MSU-BIT University. Responsibilities include assisting with research projects and conducting artificial intelligence research.</span>
+  </div>
 
+  <div class="zh-en-block">
+    📌 <strong>招生助理 (Admissions Assistant)</strong> <small>2023年9月至2024年2月</small><br>
+    深圳北理莫斯科大学招生办公室<br>
+    <span class="en-line">Worked at the Admissions Office of Shenzhen MSU-BIT University. Responsibilities included leading admissions presentations and organizing enrollment data.</span>
+  </div>
 
-<div class="zh-en-block">
-  📌 2023年9月至2024年2月在深圳北理莫斯科大学招生办公室工作，任职「招生助理」。主持招生宣讲会议，招生信息数据整理等。<br>
-  <span class="en-line">Worked at the Admissions Office of Shenzhen MSU-BIT University from September 2023 to February 2024 as an Admissions Assistant. Responsibilities included leading admissions presentations and organizing enrollment data.</span>
-</div>
-
-<div class="zh-en-block">
-  🏃 2024年6月至8月在临沂市体育局实习，任职「智能体育宣传推广助理」。管理市体育小程序后台，日常数据库维护与 Debug。<br>
-  <span class="en-line">Interned at the Linyi Municipal Sports Bureau from June to August 2024 as an Assistant for Smart Sports Promotion. Responsible for managing the backend of the city's sports mini program, maintaining the database, and daily debugging.</span>
+  <div class="zh-en-block">
+    🏃 <strong>智能体育宣传推广助理 (Smart Sports Promotion Assistant)</strong> <small>2024年6月至8月</small><br>
+    临沂市体育局实习<br>
+    <span class="en-line">Interned at the Linyi Municipal Sports Bureau. Responsible for managing the backend of the city's sports mini program, maintaining the database, and daily debugging.</span>
+  </div>
 </div>
 
 
